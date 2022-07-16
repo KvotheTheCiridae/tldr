@@ -1,0 +1,15 @@
+pandas
+numpy
+matplotlib
+wordcloud
+altair
+streamlit
+bs4
+streamlit-option-menu
+streamlit-text-rating
+streamlit-tags
+streamlit-cytoscapejs
+tkinter
+webbrowser
+streamlit-aggrid
+streamlit-modal

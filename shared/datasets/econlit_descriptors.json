@@ -1,0 +1,3994 @@
+[
+  {
+    "code": "A",
+    "description": "General Economics and Teaching"
+  },
+  {
+    "code": "A1",
+    "description": "General Economics"
+  },
+  {
+    "code": "A10",
+    "description": "General"
+  },
+  {
+    "code": "A11",
+    "description": "Role of Economics - Role of Economists - Market for Economists"
+  },
+  {
+    "code": "A12",
+    "description": "Relation of Economics to Other Disciplines"
+  },
+  {
+    "code": "A13",
+    "description": "Relation of Economics to Social Values"
+  },
+  {
+    "code": "A14",
+    "description": "Sociology of Economics"
+  },
+  {
+    "code": "A19",
+    "description": "Other"
+  },
+  {
+    "code": "A2",
+    "description": "Economic Education and Teaching of Economics"
+  },
+  {
+    "code": "A20",
+    "description": "General"
+  },
+  {
+    "code": "A21",
+    "description": "Pre-college"
+  },
+  {
+    "code": "A22",
+    "description": "Undergraduate"
+  },
+  {
+    "code": "A23",
+    "description": "Graduate"
+  },
+  {
+    "code": "A29",
+    "description": "Other"
+  },
+  {
+    "code": "A3",
+    "description": "Collective Works"
+  },
+  {
+    "code": "A30",
+    "description": "General"
+  },
+  {
+    "code": "A31",
+    "description": "Collected Writings of Individuals"
+  },
+  {
+    "code": "A32",
+    "description": "Collective Volumes"
+  },
+  {
+    "code": "A33",
+    "description": "Handbooks"
+  },
+  {
+    "code": "A39",
+    "description": "Other"
+  },
+  {
+    "code": "B",
+    "description": "History of Economic Thought, Methodology, and Heterodox Approaches"
+  },
+  {
+    "code": "B00",
+    "description": "General"
+  },
+  {
+    "code": "B1",
+    "description": "History of Economic Thought through 1925"
+  },
+  {
+    "code": "B10",
+    "description": "General"
+  },
+  {
+    "code": "B11",
+    "description": "Preclassical (Ancient, Medieval, Mercantilist, Physiocratic)"
+  },
+  {
+    "code": "B12",
+    "description": "Classical (includes Adam Smith)"
+  },
+  {
+    "code": "B13",
+    "description": "Neoclassical through 1925 (Austrian, Marshallian, Walrasian, Wicksellian)"
+  },
+  {
+    "code": "B14",
+    "description": "Socialist - Marxist"
+  },
+  {
+    "code": "B15",
+    "description": "Historical - Institutional - Evolutionary"
+  },
+  {
+    "code": "B16",
+    "description": "Quantitative and Mathematical"
+  },
+  {
+    "code": "B17",
+    "description": "International Trade and Finance"
+  },
+  {
+    "code": "B19",
+    "description": "Other"
+  },
+  {
+    "code": "B2",
+    "description": "History of Economic Thought since 1925"
+  },
+  {
+    "code": "B20",
+    "description": "General"
+  },
+  {
+    "code": "B21",
+    "description": "Microeconomics"
+  },
+  {
+    "code": "B22",
+    "description": "Macroeconomics"
+  },
+  {
+    "code": "B23",
+    "description": "Econometrics - Quantitative and Mathematical Studies"
+  },
+  {
+    "code": "B24",
+    "description": "Socialist - Marxist - Sraffian"
+  },
+  {
+    "code": "B25",
+    "description": "Historical - Institutional - Evolutionary - Austrian - Stockholm School"
+  },
+  {
+    "code": "B26",
+    "description": "Financial Economics"
+  },
+  {
+    "code": "B27",
+    "description": "International Trade and Finance"
+  },
+  {
+    "code": "B29",
+    "description": "Other"
+  },
+  {
+    "code": "B3",
+    "description": "History of Economic Thought: Individuals"
+  },
+  {
+    "code": "B30",
+    "description": "General"
+  },
+  {
+    "code": "B31",
+    "description": "Individuals"
+  },
+  {
+    "code": "B32",
+    "description": "Obituaries"
+  },
+  {
+    "code": "B4",
+    "description": "Economic Methodology"
+  },
+  {
+    "code": "B40",
+    "description": "General"
+  },
+  {
+    "code": "B41",
+    "description": "Economic Methodology"
+  },
+  {
+    "code": "B49",
+    "description": "Other"
+  },
+  {
+    "code": "B5",
+    "description": "Current Heterodox Approaches"
+  },
+  {
+    "code": "B50",
+    "description": "General"
+  },
+  {
+    "code": "B51",
+    "description": "Socialist - Marxian - Sraffian"
+  },
+  {
+    "code": "B52",
+    "description": "Historical - Institutional - Evolutionary - Modern Monetary Theory†"
+  },
+  {
+    "code": "B53",
+    "description": "Austrian"
+  },
+  {
+    "code": "B54",
+    "description": "Feminist Economics"
+  },
+  {
+    "code": "B55",
+    "description": "Social Economics"
+  },
+  {
+    "code": "B59",
+    "description": "Other"
+  },
+  {
+    "code": "C",
+    "description": "Mathematical and Quantitative Methods"
+  },
+  {
+    "code": "C00",
+    "description": "General"
+  },
+  {
+    "code": "C01",
+    "description": "Econometrics"
+  },
+  {
+    "code": "C02",
+    "description": "Mathematical Methods"
+  },
+  {
+    "code": "C1",
+    "description": "Econometric and Statistical Methods and Methodology: General"
+  },
+  {
+    "code": "C10",
+    "description": "General"
+  },
+  {
+    "code": "C11",
+    "description": "Bayesian Analysis: General"
+  },
+  {
+    "code": "C12",
+    "description": "Hypothesis Testing: General"
+  },
+  {
+    "code": "C13",
+    "description": "Estimation: General"
+  },
+  {
+    "code": "C14",
+    "description": "Semiparametric and Nonparametric Methods: General"
+  },
+  {
+    "code": "C15",
+    "description": "Statistical Simulation Methods: General"
+  },
+  {
+    "code": "C18",
+    "description": "Methodological Issues: General"
+  },
+  {
+    "code": "C19",
+    "description": "Other"
+  },
+  {
+    "code": "C2",
+    "description": "Single Equation Models - Single Variables"
+  },
+  {
+    "code": "C20",
+    "description": "General"
+  },
+  {
+    "code": "C21",
+    "description": "Cross-Sectional Models - Spatial Models - Treatment Effect Models - Quantile Regressions"
+  },
+  {
+    "code": "C22",
+    "description": "Time-Series Models - Dynamic Quantile Regressions - Dynamic Treatment Effect Models - Diffusion Processes"
+  },
+  {
+    "code": "C23",
+    "description": "Panel Data Models - Spatio-temporal Models"
+  },
+  {
+    "code": "C24",
+    "description": "Truncated and Censored Models - Switching Regression Models - Threshold Regression Models"
+  },
+  {
+    "code": "C25",
+    "description": "Discrete Regression and Qualitative Choice Models - Discrete Regressors - Proportions - Probabilities"
+  },
+  {
+    "code": "C26",
+    "description": "Instrumental Variables (IV) Estimation"
+  },
+  {
+    "code": "C29",
+    "description": "Other"
+  },
+  {
+    "code": "C3",
+    "description": "Multiple or Simultaneous Equation Models - Multiple Variables"
+  },
+  {
+    "code": "C30",
+    "description": "General"
+  },
+  {
+    "code": "C31",
+    "description": "Cross-Sectional Models - Spatial Models - Treatment Effect Models - Quantile Regressions - Social Interaction Models"
+  },
+  {
+    "code": "C32",
+    "description": "Time-Series Models - Dynamic Quantile Regressions - Dynamic Treatment Effect Models - Diffusion Processes - State Space Models"
+  },
+  {
+    "code": "C33",
+    "description": "Panel Data Models - Spatio-temporal Models"
+  },
+  {
+    "code": "C34",
+    "description": "Truncated and Censored Models - Switching Regression Models"
+  },
+  {
+    "code": "C35",
+    "description": "Discrete Regression and Qualitative Choice Models - Discrete Regressors - Proportions"
+  },
+  {
+    "code": "C36",
+    "description": "Instrumental Variables (IV) Estimation"
+  },
+  {
+    "code": "C38",
+    "description": "Classification Methods - Cluster Analysis - Principal Components - Factor Models"
+  },
+  {
+    "code": "C39",
+    "description": "Other"
+  },
+  {
+    "code": "C4",
+    "description": "Econometric and Statistical Methods: Special Topics"
+  },
+  {
+    "code": "C40",
+    "description": "General"
+  },
+  {
+    "code": "C41",
+    "description": "Duration Analysis - Optimal Timing Strategies"
+  },
+  {
+    "code": "C43",
+    "description": "Index Numbers and Aggregation"
+  },
+  {
+    "code": "C44",
+    "description": "Operations Research - Statistical Decision Theory"
+  },
+  {
+    "code": "C45",
+    "description": "Neural Networks and Related Topics"
+  },
+  {
+    "code": "C46",
+    "description": "Specific Distributions - Specific Statistics"
+  },
+  {
+    "code": "C49",
+    "description": "Other"
+  },
+  {
+    "code": "C5",
+    "description": "Econometric Modeling"
+  },
+  {
+    "code": "C50",
+    "description": "General"
+  },
+  {
+    "code": "C51",
+    "description": "Model Construction and Estimation"
+  },
+  {
+    "code": "C52",
+    "description": "Model Evaluation, Validation, and Selection"
+  },
+  {
+    "code": "C53",
+    "description": "Forecasting and Prediction Methods - Simulation Methods"
+  },
+  {
+    "code": "C54",
+    "description": "Quantitative Policy Modeling"
+  },
+  {
+    "code": "C55",
+    "description": "Large Data Sets: Modeling and Analysis"
+  },
+  {
+    "code": "C57",
+    "description": "Econometrics of Games and Auctions"
+  },
+  {
+    "code": "C58",
+    "description": "Financial Econometrics"
+  },
+  {
+    "code": "C59",
+    "description": "Other"
+  },
+  {
+    "code": "C6",
+    "description": "Mathematical Methods - Programming Models - Mathematical and Simulation Modeling"
+  },
+  {
+    "code": "C60",
+    "description": "General"
+  },
+  {
+    "code": "C61",
+    "description": "Optimization Techniques - Programming Models - Dynamic Analysis"
+  },
+  {
+    "code": "C62",
+    "description": "Existence and Stability Conditions of Equilibrium"
+  },
+  {
+    "code": "C63",
+    "description": "Computational Techniques - Simulation Modeling"
+  },
+  {
+    "code": "C65",
+    "description": "Miscellaneous Mathematical Tools"
+  },
+  {
+    "code": "C67",
+    "description": "Input–Output Models"
+  },
+  {
+    "code": "C68",
+    "description": "Computable General Equilibrium Models"
+  },
+  {
+    "code": "C69",
+    "description": "Other"
+  },
+  {
+    "code": "C7",
+    "description": "Game Theory and Bargaining Theory"
+  },
+  {
+    "code": "C70",
+    "description": "General"
+  },
+  {
+    "code": "C71",
+    "description": "Cooperative Games"
+  },
+  {
+    "code": "C72",
+    "description": "Noncooperative Games"
+  },
+  {
+    "code": "C73",
+    "description": "Stochastic and Dynamic Games - Evolutionary Games - Repeated Games"
+  },
+  {
+    "code": "C78",
+    "description": "Bargaining Theory - Matching Theory"
+  },
+  {
+    "code": "C79",
+    "description": "Other"
+  },
+  {
+    "code": "C8",
+    "description": "Data Collection and Data Estimation Methodology - Computer Programs"
+  },
+  {
+    "code": "C80",
+    "description": "General"
+  },
+  {
+    "code": "C81",
+    "description": "Methodology for Collecting, Estimating, and Organizing Microeconomic Data - Data Access"
+  },
+  {
+    "code": "C82",
+    "description": "Methodology for Collecting, Estimating, and Organizing Macroeconomic Data - Data Access"
+  },
+  {
+    "code": "C83",
+    "description": "Survey Methods - Sampling Methods"
+  },
+  {
+    "code": "C87",
+    "description": "Econometric Software"
+  },
+  {
+    "code": "C88",
+    "description": "Other Computer Software"
+  },
+  {
+    "code": "C89",
+    "description": "Other"
+  },
+  {
+    "code": "C9",
+    "description": "Design of Experiments"
+  },
+  {
+    "code": "C90",
+    "description": "General"
+  },
+  {
+    "code": "C91",
+    "description": "Laboratory, Individual Behavior"
+  },
+  {
+    "code": "C92",
+    "description": "Laboratory, Group Behavior"
+  },
+  {
+    "code": "C93",
+    "description": "Field Experiments"
+  },
+  {
+    "code": "C99",
+    "description": "Other"
+  },
+  {
+    "code": "D",
+    "description": "Microeconomics"
+  },
+  {
+    "code": "D00",
+    "description": "General"
+  },
+  {
+    "code": "D01",
+    "description": "Microeconomic Behavior: Underlying Principles"
+  },
+  {
+    "code": "D02",
+    "description": "Institutions: Design, Formation, Operations, and Impact"
+  },
+  {
+    "code": "D04",
+    "description": "Microeconomic Policy: Formulation, Implementation, and Evaluation"
+  },
+  {
+    "code": "D1",
+    "description": "Household Behavior and Family Economics"
+  },
+  {
+    "code": "D10",
+    "description": "General"
+  },
+  {
+    "code": "D11",
+    "description": "Consumer Economics: Theory"
+  },
+  {
+    "code": "D12",
+    "description": "Consumer Economics: Empirical Analysis"
+  },
+  {
+    "code": "D13",
+    "description": "Household Production and Intrahousehold Allocation"
+  },
+  {
+    "code": "D14",
+    "description": "Household Saving - Personal Finance"
+  },
+  {
+    "code": "D15",
+    "description": "Intertemporal Household Choice - Life Cycle Models and Saving"
+  },
+  {
+    "code": "D16",
+    "description": "Collaborative Consumption"
+  },
+  {
+    "code": "D18",
+    "description": "Consumer Protection"
+  },
+  {
+    "code": "D19",
+    "description": "Other"
+  },
+  {
+    "code": "D2",
+    "description": "Production and Organizations"
+  },
+  {
+    "code": "D20",
+    "description": "General"
+  },
+  {
+    "code": "D21",
+    "description": "Firm Behavior: Theory"
+  },
+  {
+    "code": "D22",
+    "description": "Firm Behavior: Empirical Analysis"
+  },
+  {
+    "code": "D23",
+    "description": "Organizational Behavior - Transaction Costs - Property Rights"
+  },
+  {
+    "code": "D24",
+    "description": "Production - Cost - Capital - Capital, Total Factor, and Multifactor Productivity - Capacity"
+  },
+  {
+    "code": "D25",
+    "description": "Intertemporal Firm Choice: Investment, Capacity, and Financing"
+  },
+  {
+    "code": "D26",
+    "description": "Crowd-Based Firms"
+  },
+  {
+    "code": "D29",
+    "description": "Other"
+  },
+  {
+    "code": "D3",
+    "description": "Distribution"
+  },
+  {
+    "code": "D30",
+    "description": "General"
+  },
+  {
+    "code": "D31",
+    "description": "Personal Income, Wealth, and Their Distributions"
+  },
+  {
+    "code": "D33",
+    "description": "Factor Income Distribution"
+  },
+  {
+    "code": "D39",
+    "description": "Other"
+  },
+  {
+    "code": "D4",
+    "description": "Market Structure, Pricing, and Design"
+  },
+  {
+    "code": "D40",
+    "description": "General"
+  },
+  {
+    "code": "D41",
+    "description": "Perfect Competition"
+  },
+  {
+    "code": "D42",
+    "description": "Monopoly"
+  },
+  {
+    "code": "D43",
+    "description": "Oligopoly and Other Forms of Market Imperfection"
+  },
+  {
+    "code": "D44",
+    "description": "Auctions"
+  },
+  {
+    "code": "D45",
+    "description": "Rationing - Licensing"
+  },
+  {
+    "code": "D46",
+    "description": "Value Theory"
+  },
+  {
+    "code": "D47",
+    "description": "Market Design"
+  },
+  {
+    "code": "D49",
+    "description": "Other"
+  },
+  {
+    "code": "D5",
+    "description": "General Equilibrium and Disequilibrium"
+  },
+  {
+    "code": "D50",
+    "description": "General"
+  },
+  {
+    "code": "D51",
+    "description": "Exchange and Production Economies"
+  },
+  {
+    "code": "D52",
+    "description": "Incomplete Markets"
+  },
+  {
+    "code": "D53",
+    "description": "Financial Markets"
+  },
+  {
+    "code": "D57",
+    "description": "Input–Output Tables and Analysis"
+  },
+  {
+    "code": "D58",
+    "description": "Computable and Other Applied General Equilibrium Models"
+  },
+  {
+    "code": "D59",
+    "description": "Other"
+  },
+  {
+    "code": "D6",
+    "description": "Welfare Economics"
+  },
+  {
+    "code": "D60",
+    "description": "General"
+  },
+  {
+    "code": "D61",
+    "description": "Allocative Efficiency - Cost–Benefit Analysis"
+  },
+  {
+    "code": "D62",
+    "description": "Externalities"
+  },
+  {
+    "code": "D63",
+    "description": "Equity, Justice, Inequality, and Other Normative Criteria and Measurement"
+  },
+  {
+    "code": "D64",
+    "description": "Altruism - Philanthropy - Intergenerational Transfers"
+  },
+  {
+    "code": "D69",
+    "description": "Other"
+  },
+  {
+    "code": "D7",
+    "description": "Analysis of Collective Decision-Making"
+  },
+  {
+    "code": "D70",
+    "description": "General"
+  },
+  {
+    "code": "D71",
+    "description": "Social Choice - Clubs - Committees - Associations"
+  },
+  {
+    "code": "D72",
+    "description": "Political Processes: Rent-Seeking, Lobbying, Elections, Legislatures, and Voting Behavior"
+  },
+  {
+    "code": "D73",
+    "description": "Bureaucracy - Administrative Processes in Public Organizations - Corruption"
+  },
+  {
+    "code": "D74",
+    "description": "Conflict - Conflict Resolution - Alliances - Revolutions"
+  },
+  {
+    "code": "D78",
+    "description": "Positive Analysis of Policy Formulation and Implementation"
+  },
+  {
+    "code": "D79",
+    "description": "Other"
+  },
+  {
+    "code": "D8",
+    "description": "Information, Knowledge, and Uncertainty"
+  },
+  {
+    "code": "D80",
+    "description": "General"
+  },
+  {
+    "code": "D81",
+    "description": "Criteria for Decision-Making under Risk and Uncertainty"
+  },
+  {
+    "code": "D82",
+    "description": "Asymmetric and Private Information - Mechanism Design"
+  },
+  {
+    "code": "D83",
+    "description": "Search - Learning - Information and Knowledge - Communication - Belief - Unawareness"
+  },
+  {
+    "code": "D84",
+    "description": "Expectations - Speculations"
+  },
+  {
+    "code": "D85",
+    "description": "Network Formation and Analysis: Theory"
+  },
+  {
+    "code": "D86",
+    "description": "Economics of Contract: Theory"
+  },
+  {
+    "code": "D87",
+    "description": "Neuroeconomics"
+  },
+  {
+    "code": "D89",
+    "description": "Other"
+  },
+  {
+    "code": "D9",
+    "description": "Micro-Based Behavioral Economics"
+  },
+  {
+    "code": "D90",
+    "description": "General"
+  },
+  {
+    "code": "D91",
+    "description": "Role and Effects of Psychological, Emotional, Social, and Cognitive Factors on Decision Making"
+  },
+  {
+    "code": "E",
+    "description": "Macroeconomics and Monetary Economics"
+  },
+  {
+    "code": "E00",
+    "description": "General"
+  },
+  {
+    "code": "E01",
+    "description": "Measurement and Data on National Income and Product Accounts and Wealth - Environmental Accounts"
+  },
+  {
+    "code": "E02",
+    "description": "Institutions and the Macroeconomy"
+  },
+  {
+    "code": "E1",
+    "description": "General Aggregative Models"
+  },
+  {
+    "code": "E10",
+    "description": "General"
+  },
+  {
+    "code": "E11",
+    "description": "Marxian - Sraffian - Kaleckian"
+  },
+  {
+    "code": "E12",
+    "description": "Keynes - Keynesian - Post-Keynesian - Modern Monetary Theory†"
+  },
+  {
+    "code": "E13",
+    "description": "Neoclassical"
+  },
+  {
+    "code": "E14",
+    "description": "Austrian - Evolutionary - Institutional"
+  },
+  {
+    "code": "E16",
+    "description": "Social Accounting Matrix"
+  },
+  {
+    "code": "E17",
+    "description": "Forecasting and Simulation: Models and Applications"
+  },
+  {
+    "code": "E19",
+    "description": "Other"
+  },
+  {
+    "code": "E2",
+    "description": "Consumption, Saving, Production, Investment, Labor Markets, and Informal Economy"
+  },
+  {
+    "code": "E20",
+    "description": "General"
+  },
+  {
+    "code": "E21",
+    "description": "Consumption - Saving - Wealth"
+  },
+  {
+    "code": "E22",
+    "description": "Investment - Capital - Intangible Capital - Capacity"
+  },
+  {
+    "code": "E23",
+    "description": "Production"
+  },
+  {
+    "code": "E24",
+    "description": "Employment - Unemployment - Wages - Intergenerational Income Distribution - Aggregate Human Capital - Aggregate Labor Productivity"
+  },
+  {
+    "code": "E25",
+    "description": "Aggregate Factor Income Distribution"
+  },
+  {
+    "code": "E26",
+    "description": "Informal Economy - Underground Economy"
+  },
+  {
+    "code": "E27",
+    "description": "Forecasting and Simulation: Models and Applications"
+  },
+  {
+    "code": "E29",
+    "description": "Other"
+  },
+  {
+    "code": "E3",
+    "description": "Prices, Business Fluctuations, and Cycles"
+  },
+  {
+    "code": "E30",
+    "description": "General"
+  },
+  {
+    "code": "E31",
+    "description": "Price Level - Inflation - Deflation"
+  },
+  {
+    "code": "E32",
+    "description": "Business Fluctuations - Cycles"
+  },
+  {
+    "code": "E37",
+    "description": "Forecasting and Simulation: Models and Applications"
+  },
+  {
+    "code": "E39",
+    "description": "Other"
+  },
+  {
+    "code": "E4",
+    "description": "Money and Interest Rates"
+  },
+  {
+    "code": "E40",
+    "description": "General"
+  },
+  {
+    "code": "E41",
+    "description": "Demand for Money"
+  },
+  {
+    "code": "E42",
+    "description": "Monetary Systems - Standards - Regimes - Government and the Monetary System - Payment Systems"
+  },
+  {
+    "code": "E43",
+    "description": "Interest Rates: Determination, Term Structure, and Effects"
+  },
+  {
+    "code": "E44",
+    "description": "Financial Markets and the Macroeconomy"
+  },
+  {
+    "code": "E47",
+    "description": "Forecasting and Simulation: Models and Applications"
+  },
+  {
+    "code": "E49",
+    "description": "Other"
+  },
+  {
+    "code": "E5",
+    "description": "Monetary Policy, Central Banking, and the Supply of Money and Credit"
+  },
+  {
+    "code": "E50",
+    "description": "General"
+  },
+  {
+    "code": "E51",
+    "description": "Money Supply - Credit - Money Multipliers"
+  },
+  {
+    "code": "E52",
+    "description": "Monetary Policy"
+  },
+  {
+    "code": "E58",
+    "description": "Central Banks and Their Policies"
+  },
+  {
+    "code": "E59",
+    "description": "Other"
+  },
+  {
+    "code": "E6",
+    "description": "Macroeconomic Policy, Macroeconomic Aspects of Public Finance, and General Outlook"
+  },
+  {
+    "code": "E60",
+    "description": "General"
+  },
+  {
+    "code": "E61",
+    "description": "Policy Objectives - Policy Designs and Consistency - Policy Coordination"
+  },
+  {
+    "code": "E62",
+    "description": "Fiscal Policy"
+  },
+  {
+    "code": "E63",
+    "description": "Comparative or Joint Analysis of Fiscal and Monetary Policy - Stabilization - Treasury Policy"
+  },
+  {
+    "code": "E64",
+    "description": "Incomes Policy - Price Policy"
+  },
+  {
+    "code": "E65",
+    "description": "Studies of Particular Policy Episodes"
+  },
+  {
+    "code": "E66",
+    "description": "General Outlook and Conditions"
+  },
+  {
+    "code": "E69",
+    "description": "Other"
+  },
+  {
+    "code": "E7",
+    "description": "Macro-Based Behavioral Economics"
+  },
+  {
+    "code": "E70",
+    "description": "General"
+  },
+  {
+    "code": "E71",
+    "description": "Role and Effects of Psychological, Emotional, Social, and Cognitive Factors on the Macro Economy"
+  },
+  {
+    "code": "F",
+    "description": "International Economics"
+  },
+  {
+    "code": "F00",
+    "description": "General"
+  },
+  {
+    "code": "F01",
+    "description": "Global Outlook"
+  },
+  {
+    "code": "F02",
+    "description": "International Economic Order and Integration"
+  },
+  {
+    "code": "F1",
+    "description": "Trade"
+  },
+  {
+    "code": "F10",
+    "description": "General"
+  },
+  {
+    "code": "F11",
+    "description": "Neoclassical Models of Trade"
+  },
+  {
+    "code": "F12",
+    "description": "Models of Trade with Imperfect Competition and Scale Economies - Fragmentation"
+  },
+  {
+    "code": "F13",
+    "description": "Trade Policy - International Trade Organizations"
+  },
+  {
+    "code": "F14",
+    "description": "Empirical Studies of Trade"
+  },
+  {
+    "code": "F15",
+    "description": "Economic Integration"
+  },
+  {
+    "code": "F16",
+    "description": "Trade and Labor Market Interactions"
+  },
+  {
+    "code": "F17",
+    "description": "Trade Forecasting and Simulation"
+  },
+  {
+    "code": "F18",
+    "description": "Trade and Environment"
+  },
+  {
+    "code": "F19",
+    "description": "Other"
+  },
+  {
+    "code": "F2",
+    "description": "International Factor Movements and International Business"
+  },
+  {
+    "code": "F20",
+    "description": "General"
+  },
+  {
+    "code": "F21",
+    "description": "International Investment - Long-Term Capital Movements"
+  },
+  {
+    "code": "F22",
+    "description": "International Migration"
+  },
+  {
+    "code": "F23",
+    "description": "Multinational Firms - International Business"
+  },
+  {
+    "code": "F24",
+    "description": "Remittances"
+  },
+  {
+    "code": "F29",
+    "description": "Other"
+  },
+  {
+    "code": "F3",
+    "description": "International Finance"
+  },
+  {
+    "code": "F30",
+    "description": "General"
+  },
+  {
+    "code": "F31",
+    "description": "Foreign Exchange"
+  },
+  {
+    "code": "F32",
+    "description": "Current Account Adjustment - Short-Term Capital Movements"
+  },
+  {
+    "code": "F33",
+    "description": "International Monetary Arrangements and Institutions"
+  },
+  {
+    "code": "F34",
+    "description": "International Lending and Debt Problems"
+  },
+  {
+    "code": "F35",
+    "description": "Foreign Aid"
+  },
+  {
+    "code": "F36",
+    "description": "Financial Aspects of Economic Integration"
+  },
+  {
+    "code": "F37",
+    "description": "International Finance Forecasting and Simulation: Models and Applications"
+  },
+  {
+    "code": "F38",
+    "description": "International Financial Policy: Financial Transactions Tax; Capital Controls"
+  },
+  {
+    "code": "F39",
+    "description": "Other"
+  },
+  {
+    "code": "F4",
+    "description": "Macroeconomic Aspects of International Trade and Finance"
+  },
+  {
+    "code": "F40",
+    "description": "General"
+  },
+  {
+    "code": "F41",
+    "description": "Open Economy Macroeconomics"
+  },
+  {
+    "code": "F42",
+    "description": "International Policy Coordination and Transmission"
+  },
+  {
+    "code": "F43",
+    "description": "Economic Growth of Open Economies"
+  },
+  {
+    "code": "F44",
+    "description": "International Business Cycles"
+  },
+  {
+    "code": "F45",
+    "description": "Macroeconomic Issues of Monetary Unions"
+  },
+  {
+    "code": "F47",
+    "description": "Forecasting and Simulation: Models and Applications"
+  },
+  {
+    "code": "F49",
+    "description": "Other"
+  },
+  {
+    "code": "F5",
+    "description": "International Relations, National Security, and International Political Economy"
+  },
+  {
+    "code": "F50",
+    "description": "General"
+  },
+  {
+    "code": "F51",
+    "description": "International Conflicts - Negotiations - Sanctions"
+  },
+  {
+    "code": "F52",
+    "description": "National Security - Economic Nationalism"
+  },
+  {
+    "code": "F53",
+    "description": "International Agreements and Observance - International Organizations"
+  },
+  {
+    "code": "F54",
+    "description": "Colonialism - Imperialism - Postcolonialism"
+  },
+  {
+    "code": "F55",
+    "description": "International Institutional Arrangements"
+  },
+  {
+    "code": "F59",
+    "description": "Other"
+  },
+  {
+    "code": "F6",
+    "description": "Economic Impacts of Globalization"
+  },
+  {
+    "code": "F60",
+    "description": "General"
+  },
+  {
+    "code": "F61",
+    "description": "Microeconomic Impacts"
+  },
+  {
+    "code": "F62",
+    "description": "Macroeconomic Impacts"
+  },
+  {
+    "code": "F63",
+    "description": "Economic Development"
+  },
+  {
+    "code": "F64",
+    "description": "Environment"
+  },
+  {
+    "code": "F65",
+    "description": "Finance"
+  },
+  {
+    "code": "F66",
+    "description": "Labor"
+  },
+  {
+    "code": "F68",
+    "description": "Policy"
+  },
+  {
+    "code": "F69",
+    "description": "Other"
+  },
+  {
+    "code": "G",
+    "description": "Financial Economics"
+  },
+  {
+    "code": "G00",
+    "description": "General"
+  },
+  {
+    "code": "G01",
+    "description": "Financial Crises"
+  },
+  {
+    "code": "G1",
+    "description": "General Financial Markets†"
+  },
+  {
+    "code": "G10",
+    "description": "General"
+  },
+  {
+    "code": "G11",
+    "description": "Portfolio Choice - Investment Decisions"
+  },
+  {
+    "code": "G12",
+    "description": "Asset Pricing - Trading Volume - Bond Interest Rates†"
+  },
+  {
+    "code": "G13",
+    "description": "Contingent Pricing - Futures Pricing"
+  },
+  {
+    "code": "G14",
+    "description": "Information and Market Efficiency - Event Studies - Insider Trading"
+  },
+  {
+    "code": "G15",
+    "description": "International Financial Markets"
+  },
+  {
+    "code": "G17",
+    "description": "Financial Forecasting and Simulation"
+  },
+  {
+    "code": "G18",
+    "description": "Government Policy and Regulation"
+  },
+  {
+    "code": "G19",
+    "description": "Other"
+  },
+  {
+    "code": "G2",
+    "description": "Financial Institutions and Services"
+  },
+  {
+    "code": "G20",
+    "description": "General"
+  },
+  {
+    "code": "G21",
+    "description": "Banks - Depository Institutions - Micro Finance Institutions - Mortgages"
+  },
+  {
+    "code": "G22",
+    "description": "Insurance - Insurance Companies - Actuarial Studies"
+  },
+  {
+    "code": "G23",
+    "description": "Non-bank Financial Institutions - Financial Instruments - Institutional Investors"
+  },
+  {
+    "code": "G24",
+    "description": "Investment Banking - Venture Capital - Brokerage - Ratings and Ratings Agencies"
+  },
+  {
+    "code": "G28",
+    "description": "Government Policy and Regulation"
+  },
+  {
+    "code": "G29",
+    "description": "Other"
+  },
+  {
+    "code": "G3",
+    "description": "Corporate Finance and Governance"
+  },
+  {
+    "code": "G30",
+    "description": "General"
+  },
+  {
+    "code": "G31",
+    "description": "Capital Budgeting - Fixed Investment and Inventory Studies - Capacity"
+  },
+  {
+    "code": "G32",
+    "description": "Financing Policy - Financial Risk and Risk Management - Capital and Ownership Structure - Value of Firms - Goodwill"
+  },
+  {
+    "code": "G33",
+    "description": "Bankruptcy - Liquidation"
+  },
+  {
+    "code": "G34",
+    "description": "Mergers - Acquisitions - Restructuring - Corporate Governance"
+  },
+  {
+    "code": "G35",
+    "description": "Payout Policy"
+  },
+  {
+    "code": "G38",
+    "description": "Government Policy and Regulation"
+  },
+  {
+    "code": "G39",
+    "description": "Other"
+  },
+  {
+    "code": "G4",
+    "description": "Behavioral Finance"
+  },
+  {
+    "code": "G40",
+    "description": "General"
+  },
+  {
+    "code": "G41",
+    "description": "Role and Effects of Psychological, Emotional, Social, and Cognitive Factors on Decision Making in Financial Markets"
+  },
+  {
+    "code": "G5",
+    "description": "Household Finance ‡"
+  },
+  {
+    "code": "G50",
+    "description": "General‡"
+  },
+  {
+    "code": "G51",
+    "description": "Household Saving, Borrowing, Debt, and Wealth‡"
+  },
+  {
+    "code": "G52",
+    "description": "Insurance‡"
+  },
+  {
+    "code": "G53",
+    "description": "Financial Literacy‡"
+  },
+  {
+    "code": "G59",
+    "description": "Other‡"
+  },
+  {
+    "code": "H",
+    "description": "Public Economics"
+  },
+  {
+    "code": "H00",
+    "description": "General"
+  },
+  {
+    "code": "H1",
+    "description": "Structure and Scope of Government"
+  },
+  {
+    "code": "H10",
+    "description": "General"
+  },
+  {
+    "code": "H11",
+    "description": "Structure, Scope, and Performance of Government"
+  },
+  {
+    "code": "H12",
+    "description": "Crisis Management"
+  },
+  {
+    "code": "H13",
+    "description": "Economics of Eminent Domain - Expropriation - Nationalization"
+  },
+  {
+    "code": "H19",
+    "description": "Other"
+  },
+  {
+    "code": "H2",
+    "description": "Taxation, Subsidies, and Revenue"
+  },
+  {
+    "code": "H20",
+    "description": "General"
+  },
+  {
+    "code": "H21",
+    "description": "Efficiency - Optimal Taxation"
+  },
+  {
+    "code": "H22",
+    "description": "Incidence"
+  },
+  {
+    "code": "H23",
+    "description": "Externalities - Redistributive Effects - Environmental Taxes and Subsidies"
+  },
+  {
+    "code": "H24",
+    "description": "Personal Income and Other Nonbusiness Taxes and Subsidies"
+  },
+  {
+    "code": "H25",
+    "description": "Business Taxes and Subsidies"
+  },
+  {
+    "code": "H26",
+    "description": "Tax Evasion and Avoidance"
+  },
+  {
+    "code": "H27",
+    "description": "Other Sources of Revenue"
+  },
+  {
+    "code": "H29",
+    "description": "Other"
+  },
+  {
+    "code": "H3",
+    "description": "Fiscal Policies and Behavior of Economic Agents"
+  },
+  {
+    "code": "H30",
+    "description": "General"
+  },
+  {
+    "code": "H31",
+    "description": "Household"
+  },
+  {
+    "code": "H32",
+    "description": "Firm"
+  },
+  {
+    "code": "H39",
+    "description": "Other"
+  },
+  {
+    "code": "H4",
+    "description": "Publicly Provided Goods"
+  },
+  {
+    "code": "H40",
+    "description": "General"
+  },
+  {
+    "code": "H41",
+    "description": "Public Goods"
+  },
+  {
+    "code": "H42",
+    "description": "Publicly Provided Private Goods"
+  },
+  {
+    "code": "H43",
+    "description": "Project Evaluation - Social Discount Rate"
+  },
+  {
+    "code": "H44",
+    "description": "Publicly Provided Goods: Mixed Markets"
+  },
+  {
+    "code": "H49",
+    "description": "Other"
+  },
+  {
+    "code": "H5",
+    "description": "National Government Expenditures and Related Policies"
+  },
+  {
+    "code": "H50",
+    "description": "General"
+  },
+  {
+    "code": "H51",
+    "description": "Government Expenditures and Health"
+  },
+  {
+    "code": "H52",
+    "description": "Government Expenditures and Education"
+  },
+  {
+    "code": "H53",
+    "description": "Government Expenditures and Welfare Programs"
+  },
+  {
+    "code": "H54",
+    "description": "Infrastructures - Other Public Investment and Capital Stock"
+  },
+  {
+    "code": "H55",
+    "description": "Social Security and Public Pensions"
+  },
+  {
+    "code": "H56",
+    "description": "National Security and War"
+  },
+  {
+    "code": "H57",
+    "description": "Procurement"
+  },
+  {
+    "code": "H59",
+    "description": "Other"
+  },
+  {
+    "code": "H6",
+    "description": "National Budget, Deficit, and Debt"
+  },
+  {
+    "code": "H60",
+    "description": "General"
+  },
+  {
+    "code": "H61",
+    "description": "Budget - Budget Systems"
+  },
+  {
+    "code": "H62",
+    "description": "Deficit - Surplus"
+  },
+  {
+    "code": "H63",
+    "description": "Debt - Debt Management - Sovereign Debt"
+  },
+  {
+    "code": "H68",
+    "description": "Forecasts of Budgets, Deficits, and Debt"
+  },
+  {
+    "code": "H69",
+    "description": "Other"
+  },
+  {
+    "code": "H7",
+    "description": "State and Local Government - Intergovernmental Relations"
+  },
+  {
+    "code": "H70",
+    "description": "General"
+  },
+  {
+    "code": "H71",
+    "description": "State and Local Taxation, Subsidies, and Revenue"
+  },
+  {
+    "code": "H72",
+    "description": "State and Local Budget and Expenditures"
+  },
+  {
+    "code": "H73",
+    "description": "Interjurisdictional Differentials and Their Effects"
+  },
+  {
+    "code": "H74",
+    "description": "State and Local Borrowing"
+  },
+  {
+    "code": "H75",
+    "description": "State and Local Government: Health - Education - Welfare - Public Pensions"
+  },
+  {
+    "code": "H76",
+    "description": "State and Local Government: Other Expenditure Categories"
+  },
+  {
+    "code": "H77",
+    "description": "Intergovernmental Relations - Federalism - Secession"
+  },
+  {
+    "code": "H79",
+    "description": "Other"
+  },
+  {
+    "code": "H8",
+    "description": "Miscellaneous Issues"
+  },
+  {
+    "code": "H80",
+    "description": "General"
+  },
+  {
+    "code": "H81",
+    "description": "Governmental Loans - Loan Guarantees - Credits - Grants - Bailouts"
+  },
+  {
+    "code": "H82",
+    "description": "Governmental Property"
+  },
+  {
+    "code": "H83",
+    "description": "Public Administration - Public Sector Accounting and Audits"
+  },
+  {
+    "code": "H84",
+    "description": "Disaster Aid"
+  },
+  {
+    "code": "H87",
+    "description": "International Fiscal Issues - International Public Goods"
+  },
+  {
+    "code": "H89",
+    "description": "Other"
+  },
+  {
+    "code": "I",
+    "description": "Health, Education, and Welfare"
+  },
+  {
+    "code": "I00",
+    "description": "General"
+  },
+  {
+    "code": "I1",
+    "description": "Health"
+  },
+  {
+    "code": "I10",
+    "description": "General"
+  },
+  {
+    "code": "I11",
+    "description": "Analysis of Health Care Markets"
+  },
+  {
+    "code": "I12",
+    "description": "Health Behavior"
+  },
+  {
+    "code": "I13",
+    "description": "Health Insurance, Public and Private"
+  },
+  {
+    "code": "I14",
+    "description": "Health and Inequality"
+  },
+  {
+    "code": "I15",
+    "description": "Health and Economic Development"
+  },
+  {
+    "code": "I18",
+    "description": "Government Policy - Regulation - Public Health"
+  },
+  {
+    "code": "I19",
+    "description": "Other"
+  },
+  {
+    "code": "I2",
+    "description": "Education and Research Institutions"
+  },
+  {
+    "code": "I20",
+    "description": "General"
+  },
+  {
+    "code": "I21",
+    "description": "Analysis of Education"
+  },
+  {
+    "code": "I22",
+    "description": "Educational Finance - Financial Aid"
+  },
+  {
+    "code": "I23",
+    "description": "Higher Education - Research Institutions"
+  },
+  {
+    "code": "I24",
+    "description": "Education and Inequality"
+  },
+  {
+    "code": "I25",
+    "description": "Education and Economic Development"
+  },
+  {
+    "code": "I26",
+    "description": "Returns to Education"
+  },
+  {
+    "code": "I28",
+    "description": "Government Policy"
+  },
+  {
+    "code": "I29",
+    "description": "Other"
+  },
+  {
+    "code": "I3",
+    "description": "Welfare, Well-Being, and Poverty"
+  },
+  {
+    "code": "I30",
+    "description": "General"
+  },
+  {
+    "code": "I31",
+    "description": "General Welfare, Well-Being"
+  },
+  {
+    "code": "I32",
+    "description": "Measurement and Analysis of Poverty"
+  },
+  {
+    "code": "I38",
+    "description": "Government Policy - Provision and Effects of Welfare Programs"
+  },
+  {
+    "code": "I39",
+    "description": "Other"
+  },
+  {
+    "code": "J",
+    "description": "Labor and Demographic Economics"
+  },
+  {
+    "code": "J00",
+    "description": "General"
+  },
+  {
+    "code": "J01",
+    "description": "Labor Economics: General"
+  },
+  {
+    "code": "J08",
+    "description": "Labor Economics Policies"
+  },
+  {
+    "code": "J1",
+    "description": "Demographic Economics"
+  },
+  {
+    "code": "J10",
+    "description": "General"
+  },
+  {
+    "code": "J11",
+    "description": "Demographic Trends, Macroeconomic Effects, and Forecasts"
+  },
+  {
+    "code": "J12",
+    "description": "Marriage - Marital Dissolution - Family Structure - Domestic Abuse"
+  },
+  {
+    "code": "J13",
+    "description": "Fertility - Family Planning - Child Care - Children - Youth"
+  },
+  {
+    "code": "J14",
+    "description": "Economics of the Elderly - Economics of the Handicapped - Non-Labor Market Discrimination"
+  },
+  {
+    "code": "J15",
+    "description": "Economics of Minorities, Races, Indigenous Peoples, and Immigrants - Non-labor Discrimination"
+  },
+  {
+    "code": "J16",
+    "description": "Economics of Gender - Non-labor Discrimination"
+  },
+  {
+    "code": "J17",
+    "description": "Value of Life - Forgone Income"
+  },
+  {
+    "code": "J18",
+    "description": "Public Policy"
+  },
+  {
+    "code": "J19",
+    "description": "Other"
+  },
+  {
+    "code": "J2",
+    "description": "Demand and Supply of Labor"
+  },
+  {
+    "code": "J20",
+    "description": "General"
+  },
+  {
+    "code": "J21",
+    "description": "Labor Force and Employment, Size, and Structure"
+  },
+  {
+    "code": "J22",
+    "description": "Time Allocation and Labor Supply"
+  },
+  {
+    "code": "J23",
+    "description": "Labor Demand"
+  },
+  {
+    "code": "J24",
+    "description": "Human Capital - Skills - Occupational Choice - Labor Productivity"
+  },
+  {
+    "code": "J26",
+    "description": "Retirement - Retirement Policies"
+  },
+  {
+    "code": "J28",
+    "description": "Safety - Job Satisfaction - Related Public Policy"
+  },
+  {
+    "code": "J29",
+    "description": "Other"
+  },
+  {
+    "code": "J3",
+    "description": "Wages, Compensation, and Labor Costs"
+  },
+  {
+    "code": "J30",
+    "description": "General"
+  },
+  {
+    "code": "J31",
+    "description": "Wage Level and Structure - Wage Differentials"
+  },
+  {
+    "code": "J32",
+    "description": "Nonwage Labor Costs and Benefits - Retirement Plans - Private Pensions"
+  },
+  {
+    "code": "J33",
+    "description": "Compensation Packages - Payment Methods"
+  },
+  {
+    "code": "J38",
+    "description": "Public Policy"
+  },
+  {
+    "code": "J39",
+    "description": "Other"
+  },
+  {
+    "code": "J4",
+    "description": "Particular Labor Markets"
+  },
+  {
+    "code": "J40",
+    "description": "General"
+  },
+  {
+    "code": "J41",
+    "description": "Labor Contracts"
+  },
+  {
+    "code": "J42",
+    "description": "Monopsony - Segmented Labor Markets"
+  },
+  {
+    "code": "J43",
+    "description": "Agricultural Labor Markets"
+  },
+  {
+    "code": "J44",
+    "description": "Professional Labor Markets - Occupational Licensing"
+  },
+  {
+    "code": "J45",
+    "description": "Public Sector Labor Markets"
+  },
+  {
+    "code": "J46",
+    "description": "Informal Labor Markets"
+  },
+  {
+    "code": "J47",
+    "description": "Coercive Labor Markets"
+  },
+  {
+    "code": "J48",
+    "description": "Public Policy"
+  },
+  {
+    "code": "J49",
+    "description": "Other"
+  },
+  {
+    "code": "J5",
+    "description": "Labor–Management Relations, Trade Unions, and Collective Bargaining"
+  },
+  {
+    "code": "J50",
+    "description": "General"
+  },
+  {
+    "code": "J51",
+    "description": "Trade Unions: Objectives, Structure, and Effects"
+  },
+  {
+    "code": "J52",
+    "description": "Dispute Resolution: Strikes, Arbitration, and Mediation - Collective Bargaining"
+  },
+  {
+    "code": "J53",
+    "description": "Labor–Management Relations - Industrial Jurisprudence"
+  },
+  {
+    "code": "J54",
+    "description": "Producer Cooperatives - Labor Managed Firms - Employee Ownership"
+  },
+  {
+    "code": "J58",
+    "description": "Public Policy"
+  },
+  {
+    "code": "J59",
+    "description": "Other"
+  },
+  {
+    "code": "J6",
+    "description": "Mobility, Unemployment, Vacancies, and Immigrant Workers"
+  },
+  {
+    "code": "J60",
+    "description": "General"
+  },
+  {
+    "code": "J61",
+    "description": "Geographic Labor Mobility - Immigrant Workers"
+  },
+  {
+    "code": "J62",
+    "description": "Job, Occupational, and Intergenerational Mobility"
+  },
+  {
+    "code": "J63",
+    "description": "Turnover - Vacancies - Layoffs"
+  },
+  {
+    "code": "J64",
+    "description": "Unemployment: Models, Duration, Incidence, and Job Search"
+  },
+  {
+    "code": "J65",
+    "description": "Unemployment Insurance - Severance Pay - Plant Closings"
+  },
+  {
+    "code": "J68",
+    "description": "Public Policy"
+  },
+  {
+    "code": "J69",
+    "description": "Other"
+  },
+  {
+    "code": "J7",
+    "description": "Labor Discrimination"
+  },
+  {
+    "code": "J70",
+    "description": "General"
+  },
+  {
+    "code": "J71",
+    "description": "Discrimination"
+  },
+  {
+    "code": "J78",
+    "description": "Public Policy"
+  },
+  {
+    "code": "J79",
+    "description": "Other"
+  },
+  {
+    "code": "J8",
+    "description": "Labor Standards: National and International"
+  },
+  {
+    "code": "J80",
+    "description": "General"
+  },
+  {
+    "code": "J81",
+    "description": "Working Conditions"
+  },
+  {
+    "code": "J82",
+    "description": "Labor Force Composition"
+  },
+  {
+    "code": "J83",
+    "description": "Workers' Rights"
+  },
+  {
+    "code": "J88",
+    "description": "Public Policy"
+  },
+  {
+    "code": "J89",
+    "description": "Other"
+  },
+  {
+    "code": "K",
+    "description": "Law and Economics"
+  },
+  {
+    "code": "K00",
+    "description": "General"
+  },
+  {
+    "code": "K1",
+    "description": "Basic Areas of Law"
+  },
+  {
+    "code": "K10",
+    "description": "General"
+  },
+  {
+    "code": "K11",
+    "description": "Property Law"
+  },
+  {
+    "code": "K12",
+    "description": "Contract Law"
+  },
+  {
+    "code": "K13",
+    "description": "Tort Law and Product Liability - Forensic Economics"
+  },
+  {
+    "code": "K14",
+    "description": "Criminal Law"
+  },
+  {
+    "code": "K15",
+    "description": "Civil Law - Common Law"
+  },
+  {
+    "code": "K16",
+    "description": "Election Law"
+  },
+  {
+    "code": "K19",
+    "description": "Other"
+  },
+  {
+    "code": "K2",
+    "description": "Regulation and Business Law"
+  },
+  {
+    "code": "K20",
+    "description": "General"
+  },
+  {
+    "code": "K21",
+    "description": "Antitrust Law"
+  },
+  {
+    "code": "K22",
+    "description": "Business and Securities Law"
+  },
+  {
+    "code": "K23",
+    "description": "Regulated Industries and Administrative Law"
+  },
+  {
+    "code": "K24",
+    "description": "Cyber Law"
+  },
+  {
+    "code": "K25",
+    "description": "Real Estate Law"
+  },
+  {
+    "code": "K29",
+    "description": "Other"
+  },
+  {
+    "code": "K3",
+    "description": "Other Substantive Areas of Law"
+  },
+  {
+    "code": "K30",
+    "description": "General"
+  },
+  {
+    "code": "K31",
+    "description": "Labor Law"
+  },
+  {
+    "code": "K32",
+    "description": "Energy, Environmental, Health, and Safety Law"
+  },
+  {
+    "code": "K33",
+    "description": "International Law"
+  },
+  {
+    "code": "K34",
+    "description": "Tax Law"
+  },
+  {
+    "code": "K35",
+    "description": "Personal Bankruptcy Law"
+  },
+  {
+    "code": "K36",
+    "description": "Family and Personal Law"
+  },
+  {
+    "code": "K37",
+    "description": "Immigration Law"
+  },
+  {
+    "code": "K38",
+    "description": "Human Rights Law - Gender Law"
+  },
+  {
+    "code": "K39",
+    "description": "Other"
+  },
+  {
+    "code": "K4",
+    "description": "Legal Procedure, the Legal System, and Illegal Behavior"
+  },
+  {
+    "code": "K40",
+    "description": "General"
+  },
+  {
+    "code": "K41",
+    "description": "Litigation Process"
+  },
+  {
+    "code": "K42",
+    "description": "Illegal Behavior and the Enforcement of Law"
+  },
+  {
+    "code": "K49",
+    "description": "Other"
+  },
+  {
+    "code": "L",
+    "description": "Industrial Organization"
+  },
+  {
+    "code": "L00",
+    "description": "General"
+  },
+  {
+    "code": "L1",
+    "description": "Market Structure, Firm Strategy, and Market Performance"
+  },
+  {
+    "code": "L10",
+    "description": "General"
+  },
+  {
+    "code": "L11",
+    "description": "Production, Pricing, and Market Structure - Size Distribution of Firms"
+  },
+  {
+    "code": "L12",
+    "description": "Monopoly - Monopolization Strategies"
+  },
+  {
+    "code": "L13",
+    "description": "Oligopoly and Other Imperfect Markets"
+  },
+  {
+    "code": "L14",
+    "description": "Transactional Relationships - Contracts and Reputation - Networks"
+  },
+  {
+    "code": "L15",
+    "description": "Information and Product Quality - Standardization and Compatibility"
+  },
+  {
+    "code": "L16",
+    "description": "Industrial Organization and Macroeconomics: Industrial Structure and Structural Change - Industrial Price Indices"
+  },
+  {
+    "code": "L17",
+    "description": "Open Source Products and Markets"
+  },
+  {
+    "code": "L19",
+    "description": "Other"
+  },
+  {
+    "code": "L2",
+    "description": "Firm Objectives, Organization, and Behavior"
+  },
+  {
+    "code": "L20",
+    "description": "General"
+  },
+  {
+    "code": "L21",
+    "description": "Business Objectives of the Firm"
+  },
+  {
+    "code": "L22",
+    "description": "Firm Organization and Market Structure"
+  },
+  {
+    "code": "L23",
+    "description": "Organization of Production"
+  },
+  {
+    "code": "L24",
+    "description": "Contracting Out - Joint Ventures - Technology Licensing"
+  },
+  {
+    "code": "L25",
+    "description": "Firm Performance: Size, Diversification, and Scope"
+  },
+  {
+    "code": "L26",
+    "description": "Entrepreneurship"
+  },
+  {
+    "code": "L29",
+    "description": "Other"
+  },
+  {
+    "code": "L3",
+    "description": "Nonprofit Organizations and Public Enterprise"
+  },
+  {
+    "code": "L30",
+    "description": "General"
+  },
+  {
+    "code": "L31",
+    "description": "Nonprofit Institutions - NGOs - Social Entrepreneurship"
+  },
+  {
+    "code": "L32",
+    "description": "Public Enterprises - Public-Private Enterprises"
+  },
+  {
+    "code": "L33",
+    "description": "Comparison of Public and Private Enterprises and Nonprofit Institutions - Privatization - Contracting Out"
+  },
+  {
+    "code": "L38",
+    "description": "Public Policy"
+  },
+  {
+    "code": "L39",
+    "description": "Other"
+  },
+  {
+    "code": "L4",
+    "description": "Antitrust Issues and Policies"
+  },
+  {
+    "code": "L40",
+    "description": "General"
+  },
+  {
+    "code": "L41",
+    "description": "Monopolization - Horizontal Anticompetitive Practices"
+  },
+  {
+    "code": "L42",
+    "description": "Vertical Restraints - Resale Price Maintenance - Quantity Discounts"
+  },
+  {
+    "code": "L43",
+    "description": "Legal Monopolies and Regulation or Deregulation"
+  },
+  {
+    "code": "L44",
+    "description": "Antitrust Policy and Public Enterprises, Nonprofit Institutions, and Professional Organizations"
+  },
+  {
+    "code": "L49",
+    "description": "Other"
+  },
+  {
+    "code": "L5",
+    "description": "Regulation and Industrial Policy"
+  },
+  {
+    "code": "L50",
+    "description": "General"
+  },
+  {
+    "code": "L51",
+    "description": "Economics of Regulation"
+  },
+  {
+    "code": "L52",
+    "description": "Industrial Policy - Sectoral Planning Methods"
+  },
+  {
+    "code": "L53",
+    "description": "Enterprise Policy"
+  },
+  {
+    "code": "L59",
+    "description": "Other"
+  },
+  {
+    "code": "L6",
+    "description": "Industry Studies: Manufacturing"
+  },
+  {
+    "code": "L60",
+    "description": "General"
+  },
+  {
+    "code": "L61",
+    "description": "Metals and Metal Products - Cement - Glass - Ceramics"
+  },
+  {
+    "code": "L62",
+    "description": "Automobiles - Other Transportation Equipment - Related Parts and Equipment"
+  },
+  {
+    "code": "L63",
+    "description": "Microelectronics - Computers - Communications Equipment"
+  },
+  {
+    "code": "L64",
+    "description": "Other Machinery - Business Equipment - Armaments"
+  },
+  {
+    "code": "L65",
+    "description": "Chemicals - Rubber - Drugs - Biotechnology - Plastics"
+  },
+  {
+    "code": "L66",
+    "description": "Food - Beverages - Cosmetics - Tobacco - Wine and Spirits"
+  },
+  {
+    "code": "L67",
+    "description": "Other Consumer Nondurables: Clothing, Textiles, Shoes, and Leather Goods; Household Goods; Sports Equipment"
+  },
+  {
+    "code": "L68",
+    "description": "Appliances - Furniture - Other Consumer Durables"
+  },
+  {
+    "code": "L69",
+    "description": "Other"
+  },
+  {
+    "code": "L7",
+    "description": "Industry Studies: Primary Products and Construction"
+  },
+  {
+    "code": "L70",
+    "description": "General"
+  },
+  {
+    "code": "L71",
+    "description": "Mining, Extraction, and Refining: Hydrocarbon Fuels"
+  },
+  {
+    "code": "L72",
+    "description": "Mining, Extraction, and Refining: Other Nonrenewable Resources"
+  },
+  {
+    "code": "L73",
+    "description": "Forest Products"
+  },
+  {
+    "code": "L74",
+    "description": "Construction"
+  },
+  {
+    "code": "L78",
+    "description": "Government Policy"
+  },
+  {
+    "code": "L79",
+    "description": "Other"
+  },
+  {
+    "code": "L8",
+    "description": "Industry Studies: Services"
+  },
+  {
+    "code": "L80",
+    "description": "General"
+  },
+  {
+    "code": "L81",
+    "description": "Retail and Wholesale Trade - e-Commerce"
+  },
+  {
+    "code": "L82",
+    "description": "Entertainment - Media"
+  },
+  {
+    "code": "L83",
+    "description": "Sports - Gambling - Restaurants - Recreation - Tourism"
+  },
+  {
+    "code": "L84",
+    "description": "Personal, Professional, and Business Services"
+  },
+  {
+    "code": "L85",
+    "description": "Real Estate Services"
+  },
+  {
+    "code": "L86",
+    "description": "Information and Internet Services - Computer Software"
+  },
+  {
+    "code": "L87",
+    "description": "Postal and Delivery Services"
+  },
+  {
+    "code": "L88",
+    "description": "Government Policy"
+  },
+  {
+    "code": "L89",
+    "description": "Other"
+  },
+  {
+    "code": "L9",
+    "description": "Industry Studies: Transportation and Utilities"
+  },
+  {
+    "code": "L90",
+    "description": "General"
+  },
+  {
+    "code": "L91",
+    "description": "Transportation: General"
+  },
+  {
+    "code": "L92",
+    "description": "Railroads and Other Surface Transportation"
+  },
+  {
+    "code": "L93",
+    "description": "Air Transportation"
+  },
+  {
+    "code": "L94",
+    "description": "Electric Utilities"
+  },
+  {
+    "code": "L95",
+    "description": "Gas Utilities - Pipelines - Water Utilities"
+  },
+  {
+    "code": "L96",
+    "description": "Telecommunications"
+  },
+  {
+    "code": "L97",
+    "description": "Utilities: General"
+  },
+  {
+    "code": "L98",
+    "description": "Government Policy"
+  },
+  {
+    "code": "L99",
+    "description": "Other"
+  },
+  {
+    "code": "M",
+    "description": "Business Administration and Business Economics - Marketing - Accounting - Personnel Economics"
+  },
+  {
+    "code": "M00",
+    "description": "General"
+  },
+  {
+    "code": "M1",
+    "description": "Business Administration"
+  },
+  {
+    "code": "M10",
+    "description": "General"
+  },
+  {
+    "code": "M11",
+    "description": "Production Management"
+  },
+  {
+    "code": "M12",
+    "description": "Personnel Management - Executives; Executive Compensation"
+  },
+  {
+    "code": "M13",
+    "description": "New Firms - Startups"
+  },
+  {
+    "code": "M14",
+    "description": "Corporate Culture - Diversity - Social Responsibility"
+  },
+  {
+    "code": "M15",
+    "description": "IT Management"
+  },
+  {
+    "code": "M16",
+    "description": "International Business Administration"
+  },
+  {
+    "code": "M19",
+    "description": "Other"
+  },
+  {
+    "code": "M2",
+    "description": "Business Economics"
+  },
+  {
+    "code": "M20",
+    "description": "General"
+  },
+  {
+    "code": "M21",
+    "description": "Business Economics"
+  },
+  {
+    "code": "M29",
+    "description": "Other"
+  },
+  {
+    "code": "M3",
+    "description": "Marketing and Advertising"
+  },
+  {
+    "code": "M30",
+    "description": "General"
+  },
+  {
+    "code": "M31",
+    "description": "Marketing"
+  },
+  {
+    "code": "M37",
+    "description": "Advertising"
+  },
+  {
+    "code": "M38",
+    "description": "Government Policy and Regulation"
+  },
+  {
+    "code": "M39",
+    "description": "Other"
+  },
+  {
+    "code": "M4",
+    "description": "Accounting and Auditing"
+  },
+  {
+    "code": "M40",
+    "description": "General"
+  },
+  {
+    "code": "M41",
+    "description": "Accounting"
+  },
+  {
+    "code": "M42",
+    "description": "Auditing"
+  },
+  {
+    "code": "M48",
+    "description": "Government Policy and Regulation"
+  },
+  {
+    "code": "M49",
+    "description": "Other"
+  },
+  {
+    "code": "M5",
+    "description": "Personnel Economics"
+  },
+  {
+    "code": "M50",
+    "description": "General"
+  },
+  {
+    "code": "M51",
+    "description": "Firm Employment Decisions - Promotions"
+  },
+  {
+    "code": "M52",
+    "description": "Compensation and Compensation Methods and Their Effects"
+  },
+  {
+    "code": "M53",
+    "description": "Training"
+  },
+  {
+    "code": "M54",
+    "description": "Labor Management"
+  },
+  {
+    "code": "M55",
+    "description": "Labor Contracting Devices"
+  },
+  {
+    "code": "M59",
+    "description": "Other"
+  },
+  {
+    "code": "N",
+    "description": "Economic History"
+  },
+  {
+    "code": "N00",
+    "description": "General"
+  },
+  {
+    "code": "N01",
+    "description": "Development of the Discipline: Historiographical; Sources and Methods"
+  },
+  {
+    "code": "N1",
+    "description": "Macroeconomics and Monetary Economics - Industrial Structure - Growth - Fluctuations"
+  },
+  {
+    "code": "N10",
+    "description": "General, International, or Comparative"
+  },
+  {
+    "code": "N11",
+    "description": "U.S. - Canada: Pre-1913"
+  },
+  {
+    "code": "N12",
+    "description": "U.S. - Canada: 1913–"
+  },
+  {
+    "code": "N13",
+    "description": "Europe: Pre-1913"
+  },
+  {
+    "code": "N14",
+    "description": "Europe: 1913–"
+  },
+  {
+    "code": "N15",
+    "description": "Asia including Middle East"
+  },
+  {
+    "code": "N16",
+    "description": "Latin America - Caribbean"
+  },
+  {
+    "code": "N17",
+    "description": "Africa - Oceania"
+  },
+  {
+    "code": "N2",
+    "description": "Financial Markets and Institutions"
+  },
+  {
+    "code": "N20",
+    "description": "General, International, or Comparative"
+  },
+  {
+    "code": "N21",
+    "description": "U.S. - Canada: Pre-1913"
+  },
+  {
+    "code": "N22",
+    "description": "U.S. - Canada: 1913–"
+  },
+  {
+    "code": "N23",
+    "description": "Europe: Pre-1913"
+  },
+  {
+    "code": "N24",
+    "description": "Europe: 1913–"
+  },
+  {
+    "code": "N25",
+    "description": "Asia including Middle East"
+  },
+  {
+    "code": "N26",
+    "description": "Latin America - Caribbean"
+  },
+  {
+    "code": "N27",
+    "description": "Africa - Oceania"
+  },
+  {
+    "code": "N3",
+    "description": "Labor and Consumers, Demography, Education, Health, Welfare, Income, Wealth, Religion, and Philanthropy"
+  },
+  {
+    "code": "N30",
+    "description": "General, International, or Comparative"
+  },
+  {
+    "code": "N31",
+    "description": "U.S. - Canada: Pre-1913"
+  },
+  {
+    "code": "N32",
+    "description": "U.S. - Canada: 1913-"
+  },
+  {
+    "code": "N33",
+    "description": "Europe: Pre-1913"
+  },
+  {
+    "code": "N34",
+    "description": "Europe: 1913-"
+  },
+  {
+    "code": "N35",
+    "description": "Asia including Middle East"
+  },
+  {
+    "code": "N36",
+    "description": "Latin America - Caribbean"
+  },
+  {
+    "code": "N37",
+    "description": "Africa - Oceania"
+  },
+  {
+    "code": "N4",
+    "description": "Government, War, Law, International Relations, and Regulation"
+  },
+  {
+    "code": "N40",
+    "description": "General, International, or Comparative"
+  },
+  {
+    "code": "N41",
+    "description": "U.S. - Canada: Pre-1913"
+  },
+  {
+    "code": "N42",
+    "description": "U.S. - Canada: 1913–"
+  },
+  {
+    "code": "N43",
+    "description": "Europe: Pre-1913"
+  },
+  {
+    "code": "N44",
+    "description": "Europe: 1913–"
+  },
+  {
+    "code": "N45",
+    "description": "Asia including Middle East"
+  },
+  {
+    "code": "N46",
+    "description": "Latin America - Caribbean"
+  },
+  {
+    "code": "N47",
+    "description": "Africa - Oceania"
+  },
+  {
+    "code": "N5",
+    "description": "Agriculture, Natural Resources, Environment, and Extractive Industries"
+  },
+  {
+    "code": "N50",
+    "description": "General, International, or Comparative"
+  },
+  {
+    "code": "N51",
+    "description": "U.S. - Canada: Pre-1913"
+  },
+  {
+    "code": "N52",
+    "description": "U.S. - Canada: 1913–"
+  },
+  {
+    "code": "N53",
+    "description": "Europe: Pre-1913"
+  },
+  {
+    "code": "N54",
+    "description": "Europe: 1913–"
+  },
+  {
+    "code": "N55",
+    "description": "Asia including Middle East"
+  },
+  {
+    "code": "N56",
+    "description": "Latin America - Caribbean"
+  },
+  {
+    "code": "N57",
+    "description": "Africa - Oceania"
+  },
+  {
+    "code": "N6",
+    "description": "Manufacturing and Construction"
+  },
+  {
+    "code": "N60",
+    "description": "General, International, or Comparative"
+  },
+  {
+    "code": "N61",
+    "description": "U.S. - Canada: Pre-1913"
+  },
+  {
+    "code": "N62",
+    "description": "U.S. - Canada: 1913–"
+  },
+  {
+    "code": "N63",
+    "description": "Europe: Pre-1913"
+  },
+  {
+    "code": "N64",
+    "description": "Europe: 1913–"
+  },
+  {
+    "code": "N65",
+    "description": "Asia including Middle East"
+  },
+  {
+    "code": "N66",
+    "description": "Latin America - Caribbean"
+  },
+  {
+    "code": "N67",
+    "description": "Africa - Oceania"
+  },
+  {
+    "code": "N7",
+    "description": "Transport, Trade, Energy, Technology, and Other Services"
+  },
+  {
+    "code": "N70",
+    "description": "General, International, or Comparative"
+  },
+  {
+    "code": "N71",
+    "description": "U.S. - Canada: Pre-1913"
+  },
+  {
+    "code": "N72",
+    "description": "U.S. - Canada: 1913–"
+  },
+  {
+    "code": "N73",
+    "description": "Europe: Pre-1913"
+  },
+  {
+    "code": "N74",
+    "description": "Europe: 1913–"
+  },
+  {
+    "code": "N75",
+    "description": "Asia including Middle East"
+  },
+  {
+    "code": "N76",
+    "description": "Latin America - Caribbean"
+  },
+  {
+    "code": "N77",
+    "description": "Africa - Oceania"
+  },
+  {
+    "code": "N8",
+    "description": "Micro-Business History"
+  },
+  {
+    "code": "N80",
+    "description": "General, International, or Comparative"
+  },
+  {
+    "code": "N81",
+    "description": "U.S. - Canada: Pre-1913"
+  },
+  {
+    "code": "N82",
+    "description": "U.S. - Canada: 1913–"
+  },
+  {
+    "code": "N83",
+    "description": "Europe: Pre-1913"
+  },
+  {
+    "code": "N84",
+    "description": "Europe: 1913–"
+  },
+  {
+    "code": "N85",
+    "description": "Asia including Middle East"
+  },
+  {
+    "code": "N86",
+    "description": "Latin America - Caribbean"
+  },
+  {
+    "code": "N87",
+    "description": "Africa - Oceania"
+  },
+  {
+    "code": "N9",
+    "description": "Regional and Urban History"
+  },
+  {
+    "code": "N90",
+    "description": "General, International, or Comparative"
+  },
+  {
+    "code": "N91",
+    "description": "U.S. - Canada: Pre-1913"
+  },
+  {
+    "code": "N92",
+    "description": "U.S. - Canada: 1913–"
+  },
+  {
+    "code": "N93",
+    "description": "Europe: Pre-1913"
+  },
+  {
+    "code": "N94",
+    "description": "Europe: 1913–"
+  },
+  {
+    "code": "N95",
+    "description": "Asia including Middle East"
+  },
+  {
+    "code": "N96",
+    "description": "Latin America - Caribbean"
+  },
+  {
+    "code": "N97",
+    "description": "Africa - Oceania"
+  },
+  {
+    "code": "O",
+    "description": "Economic Development, Innovation, Technological Change, and Growth"
+  },
+  {
+    "code": "O1",
+    "description": "Economic Development"
+  },
+  {
+    "code": "O10",
+    "description": "General"
+  },
+  {
+    "code": "O11",
+    "description": "Macroeconomic Analyses of Economic Development"
+  },
+  {
+    "code": "O12",
+    "description": "Microeconomic Analyses of Economic Development"
+  },
+  {
+    "code": "O13",
+    "description": "Agriculture - Natural Resources - Energy - Environment - Other Primary Products"
+  },
+  {
+    "code": "O14",
+    "description": "Industrialization - Manufacturing and Service Industries - Choice of Technology"
+  },
+  {
+    "code": "O15",
+    "description": "Human Resources - Human Development - Income Distribution - Migration"
+  },
+  {
+    "code": "O16",
+    "description": "Financial Markets - Saving and Capital Investment - Corporate Finance and Governance"
+  },
+  {
+    "code": "O17",
+    "description": "Formal and Informal Sectors - Shadow Economy - Institutional Arrangements"
+  },
+  {
+    "code": "O18",
+    "description": "Urban, Rural, Regional, and Transportation Analysis - Housing - Infrastructure"
+  },
+  {
+    "code": "O19",
+    "description": "International Linkages to Development - Role of International Organizations"
+  },
+  {
+    "code": "O2",
+    "description": "Development Planning and Policy"
+  },
+  {
+    "code": "O20",
+    "description": "General"
+  },
+  {
+    "code": "O21",
+    "description": "Planning Models - Planning Policy"
+  },
+  {
+    "code": "O22",
+    "description": "Project Analysis"
+  },
+  {
+    "code": "O23",
+    "description": "Fiscal and Monetary Policy in Development"
+  },
+  {
+    "code": "O24",
+    "description": "Trade Policy - Factor Movement Policy - Foreign Exchange Policy"
+  },
+  {
+    "code": "O25",
+    "description": "Industrial Policy"
+  },
+  {
+    "code": "O29",
+    "description": "Other"
+  },
+  {
+    "code": "O3",
+    "description": "Innovation - Research and Development - Technological Change - Intellectual Property Rights"
+  },
+  {
+    "code": "O30",
+    "description": "General"
+  },
+  {
+    "code": "O31",
+    "description": "Innovation and Invention: Processes and Incentives"
+  },
+  {
+    "code": "O32",
+    "description": "Management of Technological Innovation and R&D"
+  },
+  {
+    "code": "O33",
+    "description": "Technological Change: Choices and Consequences - Diffusion Processes"
+  },
+  {
+    "code": "O34",
+    "description": "Intellectual Property and Intellectual Capital"
+  },
+  {
+    "code": "O35",
+    "description": "Social Innovation"
+  },
+  {
+    "code": "O36",
+    "description": "Open Innovation‡"
+  },
+  {
+    "code": "O38",
+    "description": "Government Policy"
+  },
+  {
+    "code": "O39",
+    "description": "Other"
+  },
+  {
+    "code": "O4",
+    "description": "Economic Growth and Aggregate Productivity"
+  },
+  {
+    "code": "O40",
+    "description": "General"
+  },
+  {
+    "code": "O41",
+    "description": "One, Two, and Multisector Growth Models"
+  },
+  {
+    "code": "O42",
+    "description": "Monetary Growth Models"
+  },
+  {
+    "code": "O43",
+    "description": "Institutions and Growth"
+  },
+  {
+    "code": "O44",
+    "description": "Environment and Growth"
+  },
+  {
+    "code": "O47",
+    "description": "Empirical Studies of Economic Growth - Aggregate Productivity - Cross-Country Output Convergence"
+  },
+  {
+    "code": "O49",
+    "description": "Other"
+  },
+  {
+    "code": "O5",
+    "description": "Economywide Country Studies"
+  },
+  {
+    "code": "O50",
+    "description": "General"
+  },
+  {
+    "code": "O51",
+    "description": "U.S. - Canada"
+  },
+  {
+    "code": "O52",
+    "description": "Europe"
+  },
+  {
+    "code": "O53",
+    "description": "Asia including Middle East"
+  },
+  {
+    "code": "O54",
+    "description": "Latin America - Caribbean"
+  },
+  {
+    "code": "O55",
+    "description": "Africa"
+  },
+  {
+    "code": "O56",
+    "description": "Oceania"
+  },
+  {
+    "code": "O57",
+    "description": "Comparative Studies of Countries"
+  },
+  {
+    "code": "P",
+    "description": "Economic Systems"
+  },
+  {
+    "code": "P00",
+    "description": "General"
+  },
+  {
+    "code": "P1",
+    "description": "Capitalist Systems"
+  },
+  {
+    "code": "P10",
+    "description": "General"
+  },
+  {
+    "code": "P11",
+    "description": "Planning, Coordination, and Reform"
+  },
+  {
+    "code": "P12",
+    "description": "Capitalist Enterprises"
+  },
+  {
+    "code": "P13",
+    "description": "Cooperative Enterprises"
+  },
+  {
+    "code": "P14",
+    "description": "Property Rights"
+  },
+  {
+    "code": "P16",
+    "description": "Political Economy"
+  },
+  {
+    "code": "P17",
+    "description": "Performance and Prospects"
+  },
+  {
+    "code": "P18",
+    "description": "Energy - Environment"
+  },
+  {
+    "code": "P19",
+    "description": "Other"
+  },
+  {
+    "code": "P2",
+    "description": "Socialist Systems and Transitional Economies"
+  },
+  {
+    "code": "P20",
+    "description": "General"
+  },
+  {
+    "code": "P21",
+    "description": "Planning, Coordination, and Reform"
+  },
+  {
+    "code": "P22",
+    "description": "Prices"
+  },
+  {
+    "code": "P23",
+    "description": "Factor and Product Markets - Industry Studies - Population"
+  },
+  {
+    "code": "P24",
+    "description": "National Income, Product, and Expenditure - Money - Inflation"
+  },
+  {
+    "code": "P25",
+    "description": "Urban, Rural, and Regional Economics"
+  },
+  {
+    "code": "P26",
+    "description": "Political Economy - Property Rights"
+  },
+  {
+    "code": "P27",
+    "description": "Performance and Prospects"
+  },
+  {
+    "code": "P28",
+    "description": "Natural Resources - Energy - Environment"
+  },
+  {
+    "code": "P29",
+    "description": "Other"
+  },
+  {
+    "code": "P3",
+    "description": "Socialist Institutions and Their Transitions"
+  },
+  {
+    "code": "P30",
+    "description": "General"
+  },
+  {
+    "code": "P31",
+    "description": "Socialist Enterprises and Their Transitions"
+  },
+  {
+    "code": "P32",
+    "description": "Collectives - Communes - Agriculture"
+  },
+  {
+    "code": "P33",
+    "description": "International Trade, Finance, Investment, Relations, and Aid"
+  },
+  {
+    "code": "P34",
+    "description": "Financial Economics"
+  },
+  {
+    "code": "P35",
+    "description": "Public Economics"
+  },
+  {
+    "code": "P36",
+    "description": "Consumer Economics - Health - Education and Training - Welfare, Income, Wealth, and Poverty"
+  },
+  {
+    "code": "P37",
+    "description": "Legal Institutions - Illegal Behavior"
+  },
+  {
+    "code": "P39",
+    "description": "Other"
+  },
+  {
+    "code": "P4",
+    "description": "Other Economic Systems"
+  },
+  {
+    "code": "P40",
+    "description": "General"
+  },
+  {
+    "code": "P41",
+    "description": "Planning, Coordination, and Reform"
+  },
+  {
+    "code": "P42",
+    "description": "Productive Enterprises - Factor and Product Markets - Prices - Population"
+  },
+  {
+    "code": "P43",
+    "description": "Public Economics - Financial Economics"
+  },
+  {
+    "code": "P44",
+    "description": "National Income, Product, and Expenditure - Money - Inflation"
+  },
+  {
+    "code": "P45",
+    "description": "International Trade, Finance, Investment, and Aid"
+  },
+  {
+    "code": "P46",
+    "description": "Consumer Economics - Health - Education and Training - Welfare, Income, Wealth, and Poverty"
+  },
+  {
+    "code": "P47",
+    "description": "Performance and Prospects"
+  },
+  {
+    "code": "P48",
+    "description": "Political Economy - Legal Institutions - Property Rights - Natural Resources - Energy - Environment - Regional Studies"
+  },
+  {
+    "code": "P49",
+    "description": "Other"
+  },
+  {
+    "code": "P5",
+    "description": "Comparative Economic Systems"
+  },
+  {
+    "code": "P50",
+    "description": "General"
+  },
+  {
+    "code": "P51",
+    "description": "Comparative Analysis of Economic Systems"
+  },
+  {
+    "code": "P52",
+    "description": "Comparative Studies of Particular Economies"
+  },
+  {
+    "code": "P59",
+    "description": "Other"
+  },
+  {
+    "code": "Q",
+    "description": "Agricultural and Natural Resource Economics - Environmental and Ecological Economics"
+  },
+  {
+    "code": "Q00",
+    "description": "General"
+  },
+  {
+    "code": "Q01",
+    "description": "Sustainable Development"
+  },
+  {
+    "code": "Q02",
+    "description": "Commodity Markets"
+  },
+  {
+    "code": "Q1",
+    "description": "Agriculture"
+  },
+  {
+    "code": "Q10",
+    "description": "General"
+  },
+  {
+    "code": "Q11",
+    "description": "Aggregate Supply and Demand Analysis - Prices"
+  },
+  {
+    "code": "Q12",
+    "description": "Micro Analysis of Farm Firms, Farm Households, and Farm Input Markets"
+  },
+  {
+    "code": "Q13",
+    "description": "Agricultural Markets and Marketing - Cooperatives - Agribusiness"
+  },
+  {
+    "code": "Q14",
+    "description": "Agricultural Finance"
+  },
+  {
+    "code": "Q15",
+    "description": "Land Ownership and Tenure - Land Reform - Land Use - Irrigation - Agriculture and Environment"
+  },
+  {
+    "code": "Q16",
+    "description": "R&D - Agricultural Technology - Biofuels - Agricultural Extension Services"
+  },
+  {
+    "code": "Q17",
+    "description": "Agriculture in International Trade"
+  },
+  {
+    "code": "Q18",
+    "description": "Agricultural Policy - Food Policy"
+  },
+  {
+    "code": "Q19",
+    "description": "Other"
+  },
+  {
+    "code": "Q2",
+    "description": "Renewable Resources and Conservation"
+  },
+  {
+    "code": "Q20",
+    "description": "General"
+  },
+  {
+    "code": "Q21",
+    "description": "Demand and Supply - Prices"
+  },
+  {
+    "code": "Q22",
+    "description": "Fishery - Aquaculture"
+  },
+  {
+    "code": "Q23",
+    "description": "Forestry"
+  },
+  {
+    "code": "Q24",
+    "description": "Land"
+  },
+  {
+    "code": "Q25",
+    "description": "Water"
+  },
+  {
+    "code": "Q26",
+    "description": "Recreational Aspects of Natural Resources"
+  },
+  {
+    "code": "Q27",
+    "description": "Issues in International Trade"
+  },
+  {
+    "code": "Q28",
+    "description": "Government Policy"
+  },
+  {
+    "code": "Q29",
+    "description": "Other"
+  },
+  {
+    "code": "Q3",
+    "description": "Nonrenewable Resources and Conservation"
+  },
+  {
+    "code": "Q30",
+    "description": "General"
+  },
+  {
+    "code": "Q31",
+    "description": "Demand and Supply - Prices"
+  },
+  {
+    "code": "Q32",
+    "description": "Exhaustible Resources and Economic Development"
+  },
+  {
+    "code": "Q33",
+    "description": "Resource Booms"
+  },
+  {
+    "code": "Q34",
+    "description": "Natural Resources and Domestic and International Conflicts"
+  },
+  {
+    "code": "Q35",
+    "description": "Hydrocarbon Resources"
+  },
+  {
+    "code": "Q37",
+    "description": "Issues in International Trade"
+  },
+  {
+    "code": "Q38",
+    "description": "Government Policy"
+  },
+  {
+    "code": "Q39",
+    "description": "Other"
+  },
+  {
+    "code": "Q4",
+    "description": "Energy"
+  },
+  {
+    "code": "Q40",
+    "description": "General"
+  },
+  {
+    "code": "Q41",
+    "description": "Demand and Supply - Prices"
+  },
+  {
+    "code": "Q42",
+    "description": "Alternative Energy Sources"
+  },
+  {
+    "code": "Q43",
+    "description": "Energy and the Macroeconomy"
+  },
+  {
+    "code": "Q47",
+    "description": "Energy Forecasting"
+  },
+  {
+    "code": "Q48",
+    "description": "Government Policy"
+  },
+  {
+    "code": "Q49",
+    "description": "Other"
+  },
+  {
+    "code": "Q5",
+    "description": "Environmental Economics"
+  },
+  {
+    "code": "Q50",
+    "description": "General"
+  },
+  {
+    "code": "Q51",
+    "description": "Valuation of Environmental Effects"
+  },
+  {
+    "code": "Q52",
+    "description": "Pollution Control Adoption and Costs - Distributional Effects - Employment Effects"
+  },
+  {
+    "code": "Q53",
+    "description": "Air Pollution - Water Pollution - Noise - Hazardous Waste - Solid Waste - Recycling"
+  },
+  {
+    "code": "Q54",
+    "description": "Climate - Natural Disasters and Their Management - Global Warming"
+  },
+  {
+    "code": "Q55",
+    "description": "Technological Innovation"
+  },
+  {
+    "code": "Q56",
+    "description": "Environment and Development - Environment and Trade - Sustainability - Environmental Accounts and Accounting - Environmental Equity - Population Growth"
+  },
+  {
+    "code": "Q57",
+    "description": "Ecological Economics: Ecosystem Services - Biodiversity Conservation - Bioeconomics - Industrial Ecology"
+  },
+  {
+    "code": "Q58",
+    "description": "Government Policy"
+  },
+  {
+    "code": "Q59",
+    "description": "Other"
+  },
+  {
+    "code": "R",
+    "description": "Urban, Rural, Regional, Real Estate, and Transportation Economics"
+  },
+  {
+    "code": "R00",
+    "description": "General"
+  },
+  {
+    "code": "R1",
+    "description": "General Regional Economics"
+  },
+  {
+    "code": "R10",
+    "description": "General"
+  },
+  {
+    "code": "R11",
+    "description": "Regional Economic Activity: Growth, Development, Environmental Issues, and Changes"
+  },
+  {
+    "code": "R12",
+    "description": "Size and Spatial Distributions of Regional Economic Activity"
+  },
+  {
+    "code": "R13",
+    "description": "General Equilibrium and Welfare Economic Analysis of Regional Economies"
+  },
+  {
+    "code": "R14",
+    "description": "Land Use Patterns"
+  },
+  {
+    "code": "R15",
+    "description": "Econometric and Input–Output Models - Other Models"
+  },
+  {
+    "code": "R19",
+    "description": "Other"
+  },
+  {
+    "code": "R2",
+    "description": "Household Analysis"
+  },
+  {
+    "code": "R20",
+    "description": "General"
+  },
+  {
+    "code": "R21",
+    "description": "Housing Demand"
+  },
+  {
+    "code": "R22",
+    "description": "Other Demand"
+  },
+  {
+    "code": "R23",
+    "description": "Regional Migration - Regional Labor Markets - Population - Neighborhood Characteristics"
+  },
+  {
+    "code": "R28",
+    "description": "Government Policy"
+  },
+  {
+    "code": "R29",
+    "description": "Other"
+  },
+  {
+    "code": "R3",
+    "description": "Real Estate Markets, Spatial Production Analysis, and Firm Location"
+  },
+  {
+    "code": "R30",
+    "description": "General"
+  },
+  {
+    "code": "R31",
+    "description": "Housing Supply and Markets"
+  },
+  {
+    "code": "R32",
+    "description": "Other Spatial Production and Pricing Analysis"
+  },
+  {
+    "code": "R33",
+    "description": "Nonagricultural and Nonresidential Real Estate Markets"
+  },
+  {
+    "code": "R38",
+    "description": "Government Policy"
+  },
+  {
+    "code": "R39",
+    "description": "Other"
+  },
+  {
+    "code": "R4",
+    "description": "Transportation Economics"
+  },
+  {
+    "code": "R40",
+    "description": "General"
+  },
+  {
+    "code": "R41",
+    "description": "Transportation: Demand, Supply, and Congestion - Travel Time - Safety and Accidents - Transportation Noise"
+  },
+  {
+    "code": "R42",
+    "description": "Government and Private Investment Analysis - Road Maintenance - Transportation Planning"
+  },
+  {
+    "code": "R48",
+    "description": "Government Pricing and Policy"
+  },
+  {
+    "code": "R49",
+    "description": "Other"
+  },
+  {
+    "code": "R5",
+    "description": "Regional Government Analysis"
+  },
+  {
+    "code": "R50",
+    "description": "General"
+  },
+  {
+    "code": "R51",
+    "description": "Finance in Urban and Rural Economies"
+  },
+  {
+    "code": "R52",
+    "description": "Land Use and Other Regulations"
+  },
+  {
+    "code": "R53",
+    "description": "Public Facility Location Analysis - Public Investment and Capital Stock"
+  },
+  {
+    "code": "R58",
+    "description": "Regional Development Planning and Policy"
+  },
+  {
+    "code": "R59",
+    "description": "Other"
+  },
+  {
+    "code": "Y",
+    "description": "Miscellaneous Categories"
+  },
+  {
+    "code": "Y1",
+    "description": "Data: Tables and Charts"
+  },
+  {
+    "code": "Y10",
+    "description": "Data: Tables and Charts"
+  },
+  {
+    "code": "Y2",
+    "description": "Introductory Material"
+  },
+  {
+    "code": "Y20",
+    "description": "Introductory Material"
+  },
+  {
+    "code": "Y3",
+    "description": "Book Reviews (unclassified)"
+  },
+  {
+    "code": "Y30",
+    "description": "Book Reviews (unclassified)"
+  },
+  {
+    "code": "Y4",
+    "description": "Dissertations (unclassified)"
+  },
+  {
+    "code": "Y40",
+    "description": "Dissertations (unclassified)"
+  },
+  {
+    "code": "Y5",
+    "description": "Further Reading (unclassified)"
+  },
+  {
+    "code": "Y50",
+    "description": "Further Reading (unclassified)"
+  },
+  {
+    "code": "Y6",
+    "description": "Excerpts"
+  },
+  {
+    "code": "Y60",
+    "description": "Excerpts"
+  },
+  {
+    "code": "Y7",
+    "description": "No Author General Discussions"
+  },
+  {
+    "code": "Y70",
+    "description": "No Author General Discussions"
+  },
+  {
+    "code": "Y8",
+    "description": "Related Disciplines"
+  },
+  {
+    "code": "Y80",
+    "description": "Related Disciplines"
+  },
+  {
+    "code": "Y9",
+    "description": "Other"
+  },
+  {
+    "code": "Y90",
+    "description": "Other"
+  },
+  {
+    "code": "Y91",
+    "description": "Pictures and Maps"
+  },
+  {
+    "code": "Y92",
+    "description": "Novels, Self-Help Books, etc."
+  },
+  {
+    "code": "Z",
+    "description": "Other Special Topics"
+  },
+  {
+    "code": "Z00",
+    "description": "General"
+  },
+  {
+    "code": "Z1",
+    "description": "Cultural Economics - Economic Sociology - Economic Anthropology"
+  },
+  {
+    "code": "Z10",
+    "description": "General"
+  },
+  {
+    "code": "Z11",
+    "description": "Economics of the Arts and Literature"
+  },
+  {
+    "code": "Z12",
+    "description": "Religion"
+  },
+  {
+    "code": "Z13",
+    "description": "Economic Sociology - Economic Anthropology - Language - Social and Economic Stratification"
+  },
+  {
+    "code": "Z18",
+    "description": "Public Policy"
+  },
+  {
+    "code": "Z19",
+    "description": "Other"
+  },
+  {
+    "code": "Z2",
+    "description": "Sports Economics"
+  },
+  {
+    "code": "Z20",
+    "description": "General"
+  },
+  {
+    "code": "Z21",
+    "description": "Industry Studies"
+  },
+  {
+    "code": "Z22",
+    "description": "Labor Issues"
+  },
+  {
+    "code": "Z23",
+    "description": "Finance"
+  },
+  {
+    "code": "Z28",
+    "description": "Policy"
+  },
+  {
+    "code": "Z29",
+    "description": "Other"
+  },
+  {
+    "code": "Z3",
+    "description": "Tourism Economics"
+  },
+  {
+    "code": "Z30",
+    "description": "General"
+  },
+  {
+    "code": "Z31",
+    "description": "Industry Studies"
+  },
+  {
+    "code": "Z32",
+    "description": "Tourism and Development"
+  },
+  {
+    "code": "Z33",
+    "description": "Marketing and Finance"
+  },
+  {
+    "code": "Z38",
+    "description": "Policy"
+  },
+  {
+    "code": "Z39",
+    "description": "Other"
+  }
+]

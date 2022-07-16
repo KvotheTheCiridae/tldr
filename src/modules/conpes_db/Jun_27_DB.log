@@ -1,0 +1,1182 @@
+Process started: 2022-06-28 03:04:16.293247
+Opening DB connection
+Engine created
+DB connection successful!
+Created table Documents!
+Created table Paragraphs!
+Created table Classification!
+Created table Keywords!
+Finished dropping table (if existed)
+Created table Topics!
+CONPES No.: 4087 loaded.
+CONPES No.: 4083 loaded.
+CONPES No.: 4084 loaded.
+CONPES No.: 4085 loaded.
+CONPES No.: 4079 loaded.
+CONPES No.: 4081 loaded.
+CONPES No.: 4082 loaded.
+CONPES No.: 4080 loaded.
+CONPES No.: Adenda 3918 loaded.
+CONPES No.: 4074 loaded.
+CONPES No.: 4075 loaded.
+CONPES No.: 4076 loaded.
+CONPES No.: 4073 loaded.
+CONPES No.: 4072 loaded.
+CONPES No.: 4071 loaded.
+CONPES No.: 4066 loaded.
+CONPES No.: 4067 loaded.
+CONPES No.: 4068 loaded.
+CONPES No.: 4069 loaded.
+CONPES No.: 4070 loaded.
+CONPES No.: 4064 loaded.
+CONPES No.: 4065 loaded.
+CONPES No.: 4059 loaded.
+CONPES No.: 4061 loaded.
+CONPES No.: 4060 loaded.
+CONPES No.: 4062 loaded.
+CONPES No.: 4063 loaded.
+CONPES No.: 4058 loaded.
+CONPES No.: 4057 loaded.
+CONPES No.: 4053 loaded.
+CONPES No.: 4054 loaded.
+CONPES No.: 4055 loaded.
+CONPES No.: 4056 loaded.
+CONPES No.: 4047 loaded.
+CONPES No.: 4046 loaded.
+CONPES No.: 4048 loaded.
+CONPES No.: 4049 loaded.
+CONPES No.: 4050 loaded.
+CONPES No.: 4051 loaded.
+CONPES No.: 4052 loaded.
+CONPES No.: 4044 loaded.
+CONPES No.: 4045 loaded.
+CONPES No.: 4041 loaded.
+CONPES No.: 4042 loaded.
+CONPES No.: 4040 loaded.
+CONPES No.: 4039 loaded.
+CONPES No.: 4037 loaded.
+CONPES No.: 4038 loaded.
+CONPES No.: 4035 loaded.
+CONPES No.: 4036 loaded.
+CONPES No.: 4034 loaded.
+CONPES No.: 4033 loaded.
+CONPES No.: 4032 loaded.
+CONPES No.: 4031 loaded.
+CONPES No.: 4030 loaded.
+CONPES No.: 4029 loaded.
+CONPES No.: 4028 loaded.
+CONPES No.: 4027 loaded.
+CONPES No.: 4024 loaded.
+CONPES No.: 4026 loaded.
+CONPES No.: 4025 loaded.
+CONPES No.: 4023 loaded.
+CONPES No.: 4020 loaded.
+CONPES No.: 4021 loaded.
+CONPES No.: 4019 loaded.
+CONPES No.: 4017 loaded.
+CONPES No.: 4018 loaded.
+CONPES No.: 4015 loaded.
+CONPES No.: 4016 loaded.
+CONPES No.: 4011 loaded.
+CONPES No.: 4012 loaded.
+CONPES No.: 4010 loaded.
+CONPES No.: 4013 loaded.
+CONPES No.: 4007 loaded.
+CONPES No.: 4008 loaded.
+CONPES No.: 4004 loaded.
+CONPES No.: 4005 loaded.
+CONPES No.: 4006 loaded.
+CONPES No.: 4002 loaded.
+CONPES No.: 4000 loaded.
+CONPES No.: 4001 loaded.
+CONPES No.: 3999 loaded.
+CONPES No.: 3994 loaded.
+CONPES No.: 3997 loaded.
+CONPES No.: 3998 loaded.
+CONPES No.: 3995 loaded.
+CONPES No.: 3996 loaded.
+CONPES No.: 3993 loaded.
+CONPES No.: 3991 loaded.
+CONPES No.: 3992 loaded.
+CONPES No.: 3988 loaded.
+CONPES No.: 3989 loaded.
+CONPES No.: 3990 loaded.
+CONPES No.: 3987 loaded.
+CONPES No.: 3985 loaded.
+CONPES No.: 3986 loaded.
+CONPES No.: 3984 loaded.
+CONPES No.: 3983 loaded.
+CONPES No.: 3982 loaded.
+CONPES No.: 3981 loaded.
+CONPES No.: 3980 loaded.
+CONPES No.: 3979 loaded.
+CONPES No.: 3978 loaded.
+CONPES No.: 3977 loaded.
+CONPES No.: 3976 loaded.
+CONPES No.: 3975 loaded.
+CONPES No.: 3973 loaded.
+CONPES No.: 3974 loaded.
+CONPES No.: 3971 loaded.
+CONPES No.: 3972 loaded.
+CONPES No.: 3969 loaded.
+CONPES No.: 3970 loaded.
+CONPES No.: 3968 loaded.
+CONPES No.: 3966 loaded.
+CONPES No.: 3964 loaded.
+CONPES No.: 3965 loaded.
+CONPES No.: 3963 loaded.
+CONPES No.: 3962 loaded.
+CONPES No.: 3961 loaded.
+CONPES No.: 3960 loaded.
+CONPES No.: 3959 loaded.
+CONPES No.: 3958 loaded.
+CONPES No.: 3957 loaded.
+CONPES No.: 3956 loaded.
+CONPES No.: 3955 loaded.
+CONPES No.: 3954 loaded.
+CONPES No.: 3953 loaded.
+CONPES No.: 3952 loaded.
+CONPES No.: 3951 loaded.
+CONPES No.: 3950 loaded.
+CONPES No.: 3948 loaded.
+CONPES No.: 3949 loaded.
+CONPES No.: 3947 loaded.
+CONPES No.: 3946 loaded.
+CONPES No.: 3945 loaded.
+CONPES No.: 3944 loaded.
+CONPES No.: 3943 loaded.
+CONPES No.: 3941 loaded.
+CONPES No.: 3942 loaded.
+CONPES No.: 3940 loaded.
+CONPES No.: 3937 loaded.
+CONPES No.: 3939 loaded.
+CONPES No.: 3938 loaded.
+CONPES No.: 3934 loaded.
+CONPES No.: 3933 loaded.
+CONPES No.: 3932 loaded.
+CONPES No.: 3931 loaded.
+CONPES No.: 3930 loaded.
+CONPES No.: 3929 loaded.
+CONPES No.: 3926 loaded.
+CONPES No.: 3927 loaded.
+CONPES No.: 3925 loaded.
+CONPES No.: 3924 loaded.
+CONPES No.: 3923 loaded.
+CONPES No.: 3922 loaded.
+CONPES No.: 3921 loaded.
+CONPES No.: 3920 loaded.
+CONPES No.: 3919 loaded.
+CONPES No.: 3918 loaded.
+CONPES No.: 3916 loaded.
+CONPES No.: 3917 loaded.
+CONPES No.: 3915 loaded.
+CONPES No.: 3914 loaded.
+CONPES No.: 3913 loaded.
+CONPES No.: 3912 loaded.
+CONPES No.: 3911 loaded.
+CONPES No.: 3910 loaded.
+CONPES No.: 3909 loaded.
+CONPES No.: 3908 loaded.
+CONPES No.: 3907 loaded.
+CONPES No.: 3906 loaded.
+CONPES No.: 3905 loaded.
+CONPES No.: 3903 loaded.
+CONPES No.: 3904 loaded.
+CONPES No.: 3902 loaded.
+CONPES No.: 3901 loaded.
+CONPES No.: 3900 loaded.
+CONPES No.: 3899 loaded.
+CONPES No.: 3898 loaded.
+CONPES No.: 3896 loaded.
+CONPES No.: 3897 loaded.
+CONPES No.: 3892 loaded.
+CONPES No.: 3893 loaded.
+CONPES No.: 3894 loaded.
+CONPES No.: 3895 loaded.
+CONPES No.: 3890 loaded.
+CONPES No.: 3891 loaded.
+CONPES No.: 3889 loaded.
+CONPES No.: 3888 loaded.
+CONPES No.: 3887 loaded.
+CONPES No.: 3885 loaded.
+CONPES No.: 3886 loaded.
+CONPES No.: 3884 loaded.
+CONPES No.: 3883 loaded.
+CONPES No.: 3882 loaded.
+Paragraphs processed for CONPES Document: 4087
+Classification processed for CONPES Document: 4087
+Keywords processed for CONPES Document: 4087
+Documents table updated for CONPES Document: 4087
+Paragraphs processed for CONPES Document: 4083
+Classification processed for CONPES Document: 4083
+Keywords processed for CONPES Document: 4083
+Documents table updated for CONPES Document: 4083
+Paragraphs processed for CONPES Document: 4084
+Classification processed for CONPES Document: 4084
+Keywords processed for CONPES Document: 4084
+Documents table updated for CONPES Document: 4084
+Paragraphs processed for CONPES Document: 4085
+Classification processed for CONPES Document: 4085
+Keywords processed for CONPES Document: 4085
+Documents table updated for CONPES Document: 4085
+Paragraphs processed for CONPES Document: 4079
+Classification processed for CONPES Document: 4079
+Keywords processed for CONPES Document: 4079
+Documents table updated for CONPES Document: 4079
+Paragraphs processed for CONPES Document: 4081
+Classification processed for CONPES Document: 4081
+Keywords processed for CONPES Document: 4081
+Documents table updated for CONPES Document: 4081
+Paragraphs processed for CONPES Document: 4082
+Classification processed for CONPES Document: 4082
+Keywords processed for CONPES Document: 4082
+Documents table updated for CONPES Document: 4082
+Paragraphs processed for CONPES Document: 4080
+Classification processed for CONPES Document: 4080
+Keywords processed for CONPES Document: 4080
+Documents table updated for CONPES Document: 4080
+Paragraphs processed for CONPES Document: Adenda 3918
+Classification processed for CONPES Document: Adenda 3918
+Keywords processed for CONPES Document: Adenda 3918
+Documents table updated for CONPES Document: Adenda 3918
+Paragraphs processed for CONPES Document: 4074
+Classification processed for CONPES Document: 4074
+Keywords processed for CONPES Document: 4074
+Documents table updated for CONPES Document: 4074
+Paragraphs processed for CONPES Document: 4075
+Classification processed for CONPES Document: 4075
+Keywords processed for CONPES Document: 4075
+Documents table updated for CONPES Document: 4075
+Paragraphs processed for CONPES Document: 4076
+Classification processed for CONPES Document: 4076
+Keywords processed for CONPES Document: 4076
+Documents table updated for CONPES Document: 4076
+Paragraphs processed for CONPES Document: 4073
+Classification processed for CONPES Document: 4073
+Keywords processed for CONPES Document: 4073
+Documents table updated for CONPES Document: 4073
+Paragraphs processed for CONPES Document: 4072
+Classification processed for CONPES Document: 4072
+Keywords processed for CONPES Document: 4072
+Documents table updated for CONPES Document: 4072
+Paragraphs processed for CONPES Document: 4071
+Classification processed for CONPES Document: 4071
+Keywords processed for CONPES Document: 4071
+Documents table updated for CONPES Document: 4071
+Paragraphs processed for CONPES Document: 4066
+Classification processed for CONPES Document: 4066
+Keywords processed for CONPES Document: 4066
+Documents table updated for CONPES Document: 4066
+Paragraphs processed for CONPES Document: 4067
+Classification processed for CONPES Document: 4067
+Keywords processed for CONPES Document: 4067
+Documents table updated for CONPES Document: 4067
+Paragraphs processed for CONPES Document: 4068
+Classification processed for CONPES Document: 4068
+Keywords processed for CONPES Document: 4068
+Documents table updated for CONPES Document: 4068
+Paragraphs processed for CONPES Document: 4069
+Classification processed for CONPES Document: 4069
+Keywords processed for CONPES Document: 4069
+Documents table updated for CONPES Document: 4069
+Paragraphs processed for CONPES Document: 4070
+Classification processed for CONPES Document: 4070
+Keywords processed for CONPES Document: 4070
+Documents table updated for CONPES Document: 4070
+Paragraphs processed for CONPES Document: 4064
+Classification processed for CONPES Document: 4064
+Keywords processed for CONPES Document: 4064
+Documents table updated for CONPES Document: 4064
+Paragraphs processed for CONPES Document: 4065
+Classification processed for CONPES Document: 4065
+Keywords processed for CONPES Document: 4065
+Documents table updated for CONPES Document: 4065
+Paragraphs processed for CONPES Document: 4059
+Classification processed for CONPES Document: 4059
+Keywords processed for CONPES Document: 4059
+Documents table updated for CONPES Document: 4059
+Paragraphs processed for CONPES Document: 4061
+Classification processed for CONPES Document: 4061
+Keywords processed for CONPES Document: 4061
+Documents table updated for CONPES Document: 4061
+Paragraphs processed for CONPES Document: 4060
+Classification processed for CONPES Document: 4060
+Keywords processed for CONPES Document: 4060
+Documents table updated for CONPES Document: 4060
+Paragraphs processed for CONPES Document: 4062
+Classification processed for CONPES Document: 4062
+Keywords processed for CONPES Document: 4062
+Documents table updated for CONPES Document: 4062
+Paragraphs processed for CONPES Document: 4063
+Classification processed for CONPES Document: 4063
+Keywords processed for CONPES Document: 4063
+Documents table updated for CONPES Document: 4063
+Paragraphs processed for CONPES Document: 4058
+Classification processed for CONPES Document: 4058
+Keywords processed for CONPES Document: 4058
+Documents table updated for CONPES Document: 4058
+Paragraphs processed for CONPES Document: 4057
+Classification processed for CONPES Document: 4057
+Keywords processed for CONPES Document: 4057
+Documents table updated for CONPES Document: 4057
+Paragraphs processed for CONPES Document: 4053
+Classification processed for CONPES Document: 4053
+Keywords processed for CONPES Document: 4053
+Documents table updated for CONPES Document: 4053
+Paragraphs processed for CONPES Document: 4054
+Classification processed for CONPES Document: 4054
+Keywords processed for CONPES Document: 4054
+Documents table updated for CONPES Document: 4054
+Paragraphs processed for CONPES Document: 4055
+Classification processed for CONPES Document: 4055
+Keywords processed for CONPES Document: 4055
+Documents table updated for CONPES Document: 4055
+Paragraphs processed for CONPES Document: 4056
+Classification processed for CONPES Document: 4056
+Keywords processed for CONPES Document: 4056
+Documents table updated for CONPES Document: 4056
+Paragraphs processed for CONPES Document: 4047
+Classification processed for CONPES Document: 4047
+Keywords processed for CONPES Document: 4047
+Documents table updated for CONPES Document: 4047
+Paragraphs processed for CONPES Document: 4046
+Classification processed for CONPES Document: 4046
+Keywords processed for CONPES Document: 4046
+Documents table updated for CONPES Document: 4046
+Paragraphs processed for CONPES Document: 4048
+Classification processed for CONPES Document: 4048
+Keywords processed for CONPES Document: 4048
+Documents table updated for CONPES Document: 4048
+Paragraphs processed for CONPES Document: 4049
+Classification processed for CONPES Document: 4049
+Keywords processed for CONPES Document: 4049
+Documents table updated for CONPES Document: 4049
+Paragraphs processed for CONPES Document: 4050
+Classification processed for CONPES Document: 4050
+Keywords processed for CONPES Document: 4050
+Documents table updated for CONPES Document: 4050
+Paragraphs processed for CONPES Document: 4051
+Classification processed for CONPES Document: 4051
+Keywords processed for CONPES Document: 4051
+Documents table updated for CONPES Document: 4051
+Paragraphs processed for CONPES Document: 4052
+Classification processed for CONPES Document: 4052
+Keywords processed for CONPES Document: 4052
+Documents table updated for CONPES Document: 4052
+Paragraphs processed for CONPES Document: 4044
+Classification processed for CONPES Document: 4044
+Keywords processed for CONPES Document: 4044
+Documents table updated for CONPES Document: 4044
+Paragraphs processed for CONPES Document: 4045
+Classification processed for CONPES Document: 4045
+Keywords processed for CONPES Document: 4045
+Documents table updated for CONPES Document: 4045
+Paragraphs processed for CONPES Document: 4041
+Classification processed for CONPES Document: 4041
+Keywords processed for CONPES Document: 4041
+Documents table updated for CONPES Document: 4041
+Paragraphs processed for CONPES Document: 4042
+Classification processed for CONPES Document: 4042
+Keywords processed for CONPES Document: 4042
+Documents table updated for CONPES Document: 4042
+Paragraphs processed for CONPES Document: 4040
+Classification processed for CONPES Document: 4040
+Keywords processed for CONPES Document: 4040
+Documents table updated for CONPES Document: 4040
+Paragraphs processed for CONPES Document: 4039
+Classification processed for CONPES Document: 4039
+Keywords processed for CONPES Document: 4039
+Documents table updated for CONPES Document: 4039
+Paragraphs processed for CONPES Document: 4037
+Classification processed for CONPES Document: 4037
+Keywords processed for CONPES Document: 4037
+Documents table updated for CONPES Document: 4037
+Paragraphs processed for CONPES Document: 4038
+Classification processed for CONPES Document: 4038
+Keywords processed for CONPES Document: 4038
+Documents table updated for CONPES Document: 4038
+Paragraphs processed for CONPES Document: 4035
+Classification processed for CONPES Document: 4035
+Keywords processed for CONPES Document: 4035
+Documents table updated for CONPES Document: 4035
+Paragraphs processed for CONPES Document: 4036
+Classification processed for CONPES Document: 4036
+Keywords processed for CONPES Document: 4036
+Documents table updated for CONPES Document: 4036
+Paragraphs processed for CONPES Document: 4034
+Classification processed for CONPES Document: 4034
+Keywords processed for CONPES Document: 4034
+Documents table updated for CONPES Document: 4034
+Paragraphs processed for CONPES Document: 4033
+Classification processed for CONPES Document: 4033
+Keywords processed for CONPES Document: 4033
+Documents table updated for CONPES Document: 4033
+Paragraphs processed for CONPES Document: 4032
+Classification processed for CONPES Document: 4032
+Keywords processed for CONPES Document: 4032
+Documents table updated for CONPES Document: 4032
+Paragraphs processed for CONPES Document: 4031
+Classification processed for CONPES Document: 4031
+Keywords processed for CONPES Document: 4031
+Documents table updated for CONPES Document: 4031
+Paragraphs processed for CONPES Document: 4030
+Classification processed for CONPES Document: 4030
+Keywords processed for CONPES Document: 4030
+Documents table updated for CONPES Document: 4030
+Paragraphs processed for CONPES Document: 4029
+Classification processed for CONPES Document: 4029
+Keywords processed for CONPES Document: 4029
+Documents table updated for CONPES Document: 4029
+Paragraphs processed for CONPES Document: 4028
+Classification processed for CONPES Document: 4028
+Keywords processed for CONPES Document: 4028
+Documents table updated for CONPES Document: 4028
+Paragraphs processed for CONPES Document: 4027
+Classification processed for CONPES Document: 4027
+Keywords processed for CONPES Document: 4027
+Documents table updated for CONPES Document: 4027
+Paragraphs processed for CONPES Document: 4024
+Classification processed for CONPES Document: 4024
+Keywords processed for CONPES Document: 4024
+Documents table updated for CONPES Document: 4024
+Paragraphs processed for CONPES Document: 4026
+Classification processed for CONPES Document: 4026
+Keywords processed for CONPES Document: 4026
+Documents table updated for CONPES Document: 4026
+Paragraphs processed for CONPES Document: 4025
+Classification processed for CONPES Document: 4025
+Keywords processed for CONPES Document: 4025
+Documents table updated for CONPES Document: 4025
+Paragraphs processed for CONPES Document: 4023
+Classification processed for CONPES Document: 4023
+Keywords processed for CONPES Document: 4023
+Documents table updated for CONPES Document: 4023
+Paragraphs processed for CONPES Document: 4020
+Classification processed for CONPES Document: 4020
+Keywords processed for CONPES Document: 4020
+Documents table updated for CONPES Document: 4020
+Paragraphs processed for CONPES Document: 4021
+Classification processed for CONPES Document: 4021
+Keywords processed for CONPES Document: 4021
+Documents table updated for CONPES Document: 4021
+Paragraphs processed for CONPES Document: 4019
+Classification processed for CONPES Document: 4019
+Keywords processed for CONPES Document: 4019
+Documents table updated for CONPES Document: 4019
+Paragraphs processed for CONPES Document: 4017
+Classification processed for CONPES Document: 4017
+Keywords processed for CONPES Document: 4017
+Documents table updated for CONPES Document: 4017
+Paragraphs processed for CONPES Document: 4018
+Classification processed for CONPES Document: 4018
+Keywords processed for CONPES Document: 4018
+Documents table updated for CONPES Document: 4018
+Paragraphs processed for CONPES Document: 4015
+Classification processed for CONPES Document: 4015
+Keywords processed for CONPES Document: 4015
+Documents table updated for CONPES Document: 4015
+Paragraphs processed for CONPES Document: 4016
+Classification processed for CONPES Document: 4016
+Keywords processed for CONPES Document: 4016
+Documents table updated for CONPES Document: 4016
+Paragraphs processed for CONPES Document: 4011
+Classification processed for CONPES Document: 4011
+Keywords processed for CONPES Document: 4011
+Documents table updated for CONPES Document: 4011
+Paragraphs processed for CONPES Document: 4012
+Classification processed for CONPES Document: 4012
+Keywords processed for CONPES Document: 4012
+Documents table updated for CONPES Document: 4012
+Paragraphs processed for CONPES Document: 4010
+Classification processed for CONPES Document: 4010
+Keywords processed for CONPES Document: 4010
+Documents table updated for CONPES Document: 4010
+Paragraphs processed for CONPES Document: 4013
+Classification processed for CONPES Document: 4013
+Keywords processed for CONPES Document: 4013
+Documents table updated for CONPES Document: 4013
+Paragraphs processed for CONPES Document: 4007
+Classification processed for CONPES Document: 4007
+Keywords processed for CONPES Document: 4007
+Documents table updated for CONPES Document: 4007
+Paragraphs processed for CONPES Document: 4008
+Classification processed for CONPES Document: 4008
+Keywords processed for CONPES Document: 4008
+Documents table updated for CONPES Document: 4008
+Paragraphs processed for CONPES Document: 4004
+Classification processed for CONPES Document: 4004
+Keywords processed for CONPES Document: 4004
+Documents table updated for CONPES Document: 4004
+Paragraphs processed for CONPES Document: 4005
+Classification processed for CONPES Document: 4005
+Keywords processed for CONPES Document: 4005
+Documents table updated for CONPES Document: 4005
+Paragraphs processed for CONPES Document: 4006
+Classification processed for CONPES Document: 4006
+Keywords processed for CONPES Document: 4006
+Documents table updated for CONPES Document: 4006
+Paragraphs processed for CONPES Document: 4002
+Classification processed for CONPES Document: 4002
+Keywords processed for CONPES Document: 4002
+Documents table updated for CONPES Document: 4002
+Paragraphs processed for CONPES Document: 4000
+Classification processed for CONPES Document: 4000
+Keywords processed for CONPES Document: 4000
+Documents table updated for CONPES Document: 4000
+Paragraphs processed for CONPES Document: 4001
+Classification processed for CONPES Document: 4001
+Keywords processed for CONPES Document: 4001
+Documents table updated for CONPES Document: 4001
+Paragraphs processed for CONPES Document: 3999
+Classification processed for CONPES Document: 3999
+Keywords processed for CONPES Document: 3999
+Documents table updated for CONPES Document: 3999
+Paragraphs processed for CONPES Document: 3994
+Classification processed for CONPES Document: 3994
+Keywords processed for CONPES Document: 3994
+Documents table updated for CONPES Document: 3994
+Paragraphs processed for CONPES Document: 3997
+Classification processed for CONPES Document: 3997
+Keywords processed for CONPES Document: 3997
+Documents table updated for CONPES Document: 3997
+Paragraphs processed for CONPES Document: 3998
+Classification processed for CONPES Document: 3998
+Keywords processed for CONPES Document: 3998
+Documents table updated for CONPES Document: 3998
+Paragraphs processed for CONPES Document: 3995
+Classification processed for CONPES Document: 3995
+Keywords processed for CONPES Document: 3995
+Documents table updated for CONPES Document: 3995
+Paragraphs processed for CONPES Document: 3996
+Classification processed for CONPES Document: 3996
+Keywords processed for CONPES Document: 3996
+Documents table updated for CONPES Document: 3996
+Paragraphs processed for CONPES Document: 3993
+Classification processed for CONPES Document: 3993
+Keywords processed for CONPES Document: 3993
+Documents table updated for CONPES Document: 3993
+Paragraphs processed for CONPES Document: 3991
+Classification processed for CONPES Document: 3991
+Keywords processed for CONPES Document: 3991
+Documents table updated for CONPES Document: 3991
+Paragraphs processed for CONPES Document: 3992
+Classification processed for CONPES Document: 3992
+Keywords processed for CONPES Document: 3992
+Documents table updated for CONPES Document: 3992
+Paragraphs processed for CONPES Document: 3988
+Classification processed for CONPES Document: 3988
+Keywords processed for CONPES Document: 3988
+Documents table updated for CONPES Document: 3988
+Paragraphs processed for CONPES Document: 3989
+Classification processed for CONPES Document: 3989
+Keywords processed for CONPES Document: 3989
+Documents table updated for CONPES Document: 3989
+Paragraphs processed for CONPES Document: 3990
+Classification processed for CONPES Document: 3990
+Keywords processed for CONPES Document: 3990
+Documents table updated for CONPES Document: 3990
+Paragraphs processed for CONPES Document: 3987
+Classification processed for CONPES Document: 3987
+Keywords processed for CONPES Document: 3987
+Documents table updated for CONPES Document: 3987
+Paragraphs processed for CONPES Document: 3985
+Classification processed for CONPES Document: 3985
+Keywords processed for CONPES Document: 3985
+Documents table updated for CONPES Document: 3985
+Paragraphs processed for CONPES Document: 3986
+Classification processed for CONPES Document: 3986
+Keywords processed for CONPES Document: 3986
+Documents table updated for CONPES Document: 3986
+Paragraphs processed for CONPES Document: 3984
+Classification processed for CONPES Document: 3984
+Keywords processed for CONPES Document: 3984
+Documents table updated for CONPES Document: 3984
+Paragraphs processed for CONPES Document: 3983
+Classification processed for CONPES Document: 3983
+Keywords processed for CONPES Document: 3983
+Documents table updated for CONPES Document: 3983
+Paragraphs processed for CONPES Document: 3982
+Classification processed for CONPES Document: 3982
+Keywords processed for CONPES Document: 3982
+Documents table updated for CONPES Document: 3982
+Paragraphs processed for CONPES Document: 3981
+Classification processed for CONPES Document: 3981
+Keywords processed for CONPES Document: 3981
+Documents table updated for CONPES Document: 3981
+Paragraphs processed for CONPES Document: 3980
+Classification processed for CONPES Document: 3980
+Keywords processed for CONPES Document: 3980
+Documents table updated for CONPES Document: 3980
+Paragraphs processed for CONPES Document: 3979
+Classification processed for CONPES Document: 3979
+Keywords processed for CONPES Document: 3979
+Documents table updated for CONPES Document: 3979
+Paragraphs processed for CONPES Document: 3978
+Classification processed for CONPES Document: 3978
+Keywords processed for CONPES Document: 3978
+Documents table updated for CONPES Document: 3978
+Paragraphs processed for CONPES Document: 3977
+Classification processed for CONPES Document: 3977
+Keywords processed for CONPES Document: 3977
+Documents table updated for CONPES Document: 3977
+Paragraphs processed for CONPES Document: 3976
+Classification processed for CONPES Document: 3976
+Keywords processed for CONPES Document: 3976
+Documents table updated for CONPES Document: 3976
+Paragraphs processed for CONPES Document: 3975
+Classification processed for CONPES Document: 3975
+Keywords processed for CONPES Document: 3975
+Documents table updated for CONPES Document: 3975
+Paragraphs processed for CONPES Document: 3973
+Classification processed for CONPES Document: 3973
+Keywords processed for CONPES Document: 3973
+Documents table updated for CONPES Document: 3973
+Paragraphs processed for CONPES Document: 3974
+Classification processed for CONPES Document: 3974
+Keywords processed for CONPES Document: 3974
+Documents table updated for CONPES Document: 3974
+Paragraphs processed for CONPES Document: 3971
+Classification processed for CONPES Document: 3971
+Keywords processed for CONPES Document: 3971
+Documents table updated for CONPES Document: 3971
+Paragraphs processed for CONPES Document: 3972
+Classification processed for CONPES Document: 3972
+Keywords processed for CONPES Document: 3972
+Documents table updated for CONPES Document: 3972
+Paragraphs processed for CONPES Document: 3969
+Classification processed for CONPES Document: 3969
+Keywords processed for CONPES Document: 3969
+Documents table updated for CONPES Document: 3969
+Paragraphs processed for CONPES Document: 3970
+Classification processed for CONPES Document: 3970
+Keywords processed for CONPES Document: 3970
+Documents table updated for CONPES Document: 3970
+Paragraphs processed for CONPES Document: 3968
+Classification processed for CONPES Document: 3968
+Keywords processed for CONPES Document: 3968
+Documents table updated for CONPES Document: 3968
+Paragraphs processed for CONPES Document: 3966
+Classification processed for CONPES Document: 3966
+Keywords processed for CONPES Document: 3966
+Documents table updated for CONPES Document: 3966
+Paragraphs processed for CONPES Document: 3964
+Classification processed for CONPES Document: 3964
+Keywords processed for CONPES Document: 3964
+Documents table updated for CONPES Document: 3964
+Paragraphs processed for CONPES Document: 3965
+Classification processed for CONPES Document: 3965
+Keywords processed for CONPES Document: 3965
+Documents table updated for CONPES Document: 3965
+Paragraphs processed for CONPES Document: 3963
+Classification processed for CONPES Document: 3963
+Keywords processed for CONPES Document: 3963
+Documents table updated for CONPES Document: 3963
+Paragraphs processed for CONPES Document: 3962
+Classification processed for CONPES Document: 3962
+Keywords processed for CONPES Document: 3962
+Documents table updated for CONPES Document: 3962
+Paragraphs processed for CONPES Document: 3961
+Classification processed for CONPES Document: 3961
+Keywords processed for CONPES Document: 3961
+Documents table updated for CONPES Document: 3961
+Paragraphs processed for CONPES Document: 3960
+Classification processed for CONPES Document: 3960
+Keywords processed for CONPES Document: 3960
+Documents table updated for CONPES Document: 3960
+Paragraphs processed for CONPES Document: 3959
+Classification processed for CONPES Document: 3959
+Keywords processed for CONPES Document: 3959
+Documents table updated for CONPES Document: 3959
+Paragraphs processed for CONPES Document: 3958
+Classification processed for CONPES Document: 3958
+Keywords processed for CONPES Document: 3958
+Documents table updated for CONPES Document: 3958
+Paragraphs processed for CONPES Document: 3957
+Classification processed for CONPES Document: 3957
+Keywords processed for CONPES Document: 3957
+Documents table updated for CONPES Document: 3957
+Paragraphs processed for CONPES Document: 3956
+Classification processed for CONPES Document: 3956
+Keywords processed for CONPES Document: 3956
+Documents table updated for CONPES Document: 3956
+Paragraphs processed for CONPES Document: 3955
+Classification processed for CONPES Document: 3955
+Keywords processed for CONPES Document: 3955
+Documents table updated for CONPES Document: 3955
+Paragraphs processed for CONPES Document: 3954
+Classification processed for CONPES Document: 3954
+Keywords processed for CONPES Document: 3954
+Documents table updated for CONPES Document: 3954
+Paragraphs processed for CONPES Document: 3953
+Classification processed for CONPES Document: 3953
+Keywords processed for CONPES Document: 3953
+Documents table updated for CONPES Document: 3953
+Paragraphs processed for CONPES Document: 3952
+Classification processed for CONPES Document: 3952
+Keywords processed for CONPES Document: 3952
+Documents table updated for CONPES Document: 3952
+Paragraphs processed for CONPES Document: 3951
+Classification processed for CONPES Document: 3951
+Keywords processed for CONPES Document: 3951
+Documents table updated for CONPES Document: 3951
+Paragraphs processed for CONPES Document: 3950
+Classification processed for CONPES Document: 3950
+Keywords processed for CONPES Document: 3950
+Documents table updated for CONPES Document: 3950
+Paragraphs processed for CONPES Document: 3948
+Classification processed for CONPES Document: 3948
+Keywords processed for CONPES Document: 3948
+Documents table updated for CONPES Document: 3948
+Paragraphs processed for CONPES Document: 3949
+Classification processed for CONPES Document: 3949
+Keywords processed for CONPES Document: 3949
+Documents table updated for CONPES Document: 3949
+Paragraphs processed for CONPES Document: 3947
+Classification processed for CONPES Document: 3947
+Keywords processed for CONPES Document: 3947
+Documents table updated for CONPES Document: 3947
+Paragraphs processed for CONPES Document: 3946
+Classification processed for CONPES Document: 3946
+Keywords processed for CONPES Document: 3946
+Documents table updated for CONPES Document: 3946
+Paragraphs processed for CONPES Document: 3945
+Classification processed for CONPES Document: 3945
+Keywords processed for CONPES Document: 3945
+Documents table updated for CONPES Document: 3945
+Paragraphs processed for CONPES Document: 3944
+Classification processed for CONPES Document: 3944
+Keywords processed for CONPES Document: 3944
+Documents table updated for CONPES Document: 3944
+Paragraphs processed for CONPES Document: 3943
+Classification processed for CONPES Document: 3943
+Keywords processed for CONPES Document: 3943
+Documents table updated for CONPES Document: 3943
+Paragraphs processed for CONPES Document: 3941
+Classification processed for CONPES Document: 3941
+Keywords processed for CONPES Document: 3941
+Documents table updated for CONPES Document: 3941
+Paragraphs processed for CONPES Document: 3942
+Classification processed for CONPES Document: 3942
+Keywords processed for CONPES Document: 3942
+Documents table updated for CONPES Document: 3942
+Paragraphs processed for CONPES Document: 3940
+Classification processed for CONPES Document: 3940
+Keywords processed for CONPES Document: 3940
+Documents table updated for CONPES Document: 3940
+Paragraphs processed for CONPES Document: 3937
+Classification processed for CONPES Document: 3937
+Keywords processed for CONPES Document: 3937
+Documents table updated for CONPES Document: 3937
+Paragraphs processed for CONPES Document: 3939
+Classification processed for CONPES Document: 3939
+Keywords processed for CONPES Document: 3939
+Documents table updated for CONPES Document: 3939
+Paragraphs processed for CONPES Document: 3938
+Classification processed for CONPES Document: 3938
+Keywords processed for CONPES Document: 3938
+Documents table updated for CONPES Document: 3938
+Paragraphs processed for CONPES Document: 3934
+Classification processed for CONPES Document: 3934
+Keywords processed for CONPES Document: 3934
+Documents table updated for CONPES Document: 3934
+Paragraphs processed for CONPES Document: 3933
+Classification processed for CONPES Document: 3933
+Keywords processed for CONPES Document: 3933
+Documents table updated for CONPES Document: 3933
+Paragraphs processed for CONPES Document: 3932
+Classification processed for CONPES Document: 3932
+Keywords processed for CONPES Document: 3932
+Documents table updated for CONPES Document: 3932
+Paragraphs processed for CONPES Document: 3931
+Classification processed for CONPES Document: 3931
+Keywords processed for CONPES Document: 3931
+Documents table updated for CONPES Document: 3931
+Paragraphs processed for CONPES Document: 3930
+Classification processed for CONPES Document: 3930
+Keywords processed for CONPES Document: 3930
+Documents table updated for CONPES Document: 3930
+Paragraphs processed for CONPES Document: 3929
+Classification processed for CONPES Document: 3929
+Keywords processed for CONPES Document: 3929
+Documents table updated for CONPES Document: 3929
+Paragraphs processed for CONPES Document: 3926
+Classification processed for CONPES Document: 3926
+Keywords processed for CONPES Document: 3926
+Documents table updated for CONPES Document: 3926
+Paragraphs processed for CONPES Document: 3927
+Classification processed for CONPES Document: 3927
+Keywords processed for CONPES Document: 3927
+Documents table updated for CONPES Document: 3927
+Paragraphs processed for CONPES Document: 3925
+Classification processed for CONPES Document: 3925
+Keywords processed for CONPES Document: 3925
+Documents table updated for CONPES Document: 3925
+Paragraphs processed for CONPES Document: 3924
+Classification processed for CONPES Document: 3924
+Keywords processed for CONPES Document: 3924
+Documents table updated for CONPES Document: 3924
+Paragraphs processed for CONPES Document: 3923
+Classification processed for CONPES Document: 3923
+Keywords processed for CONPES Document: 3923
+Documents table updated for CONPES Document: 3923
+Paragraphs processed for CONPES Document: 3922
+Classification processed for CONPES Document: 3922
+Keywords processed for CONPES Document: 3922
+Documents table updated for CONPES Document: 3922
+Paragraphs processed for CONPES Document: 3921
+Classification processed for CONPES Document: 3921
+Keywords processed for CONPES Document: 3921
+Documents table updated for CONPES Document: 3921
+Paragraphs processed for CONPES Document: 3920
+Classification processed for CONPES Document: 3920
+Keywords processed for CONPES Document: 3920
+Documents table updated for CONPES Document: 3920
+Paragraphs processed for CONPES Document: 3919
+Classification processed for CONPES Document: 3919
+Keywords processed for CONPES Document: 3919
+Documents table updated for CONPES Document: 3919
+Paragraphs processed for CONPES Document: 3918
+Classification processed for CONPES Document: 3918
+Keywords processed for CONPES Document: 3918
+Documents table updated for CONPES Document: 3918
+Paragraphs processed for CONPES Document: 3916
+Classification processed for CONPES Document: 3916
+Keywords processed for CONPES Document: 3916
+Documents table updated for CONPES Document: 3916
+Paragraphs processed for CONPES Document: 3917
+Classification processed for CONPES Document: 3917
+Keywords processed for CONPES Document: 3917
+Documents table updated for CONPES Document: 3917
+Paragraphs processed for CONPES Document: 3915
+Classification processed for CONPES Document: 3915
+Keywords processed for CONPES Document: 3915
+Documents table updated for CONPES Document: 3915
+Paragraphs processed for CONPES Document: 3914
+Classification processed for CONPES Document: 3914
+Keywords processed for CONPES Document: 3914
+Documents table updated for CONPES Document: 3914
+Paragraphs processed for CONPES Document: 3913
+Classification processed for CONPES Document: 3913
+Keywords processed for CONPES Document: 3913
+Documents table updated for CONPES Document: 3913
+Paragraphs processed for CONPES Document: 3912
+Classification processed for CONPES Document: 3912
+Keywords processed for CONPES Document: 3912
+Documents table updated for CONPES Document: 3912
+Paragraphs processed for CONPES Document: 3911
+Classification processed for CONPES Document: 3911
+Keywords processed for CONPES Document: 3911
+Documents table updated for CONPES Document: 3911
+Paragraphs processed for CONPES Document: 3910
+Classification processed for CONPES Document: 3910
+Keywords processed for CONPES Document: 3910
+Documents table updated for CONPES Document: 3910
+Paragraphs processed for CONPES Document: 3909
+Classification processed for CONPES Document: 3909
+Keywords processed for CONPES Document: 3909
+Documents table updated for CONPES Document: 3909
+Paragraphs processed for CONPES Document: 3908
+Classification processed for CONPES Document: 3908
+Keywords processed for CONPES Document: 3908
+Documents table updated for CONPES Document: 3908
+Paragraphs processed for CONPES Document: 3907
+Classification processed for CONPES Document: 3907
+Keywords processed for CONPES Document: 3907
+Documents table updated for CONPES Document: 3907
+Paragraphs processed for CONPES Document: 3906
+Classification processed for CONPES Document: 3906
+Keywords processed for CONPES Document: 3906
+Documents table updated for CONPES Document: 3906
+Paragraphs processed for CONPES Document: 3905
+Classification processed for CONPES Document: 3905
+Keywords processed for CONPES Document: 3905
+Documents table updated for CONPES Document: 3905
+Paragraphs processed for CONPES Document: 3903
+Classification processed for CONPES Document: 3903
+Keywords processed for CONPES Document: 3903
+Documents table updated for CONPES Document: 3903
+Paragraphs processed for CONPES Document: 3904
+Classification processed for CONPES Document: 3904
+Keywords processed for CONPES Document: 3904
+Documents table updated for CONPES Document: 3904
+Paragraphs processed for CONPES Document: 3902
+Classification processed for CONPES Document: 3902
+Keywords processed for CONPES Document: 3902
+Documents table updated for CONPES Document: 3902
+Paragraphs processed for CONPES Document: 3901
+Classification processed for CONPES Document: 3901
+Keywords processed for CONPES Document: 3901
+Documents table updated for CONPES Document: 3901
+Paragraphs processed for CONPES Document: 3900
+Classification processed for CONPES Document: 3900
+Keywords processed for CONPES Document: 3900
+Documents table updated for CONPES Document: 3900
+Paragraphs processed for CONPES Document: 3899
+Classification processed for CONPES Document: 3899
+Keywords processed for CONPES Document: 3899
+Documents table updated for CONPES Document: 3899
+Paragraphs processed for CONPES Document: 3898
+Classification processed for CONPES Document: 3898
+Keywords processed for CONPES Document: 3898
+Documents table updated for CONPES Document: 3898
+Paragraphs processed for CONPES Document: 3896
+Classification processed for CONPES Document: 3896
+Keywords processed for CONPES Document: 3896
+Documents table updated for CONPES Document: 3896
+Paragraphs processed for CONPES Document: 3897
+Classification processed for CONPES Document: 3897
+Keywords processed for CONPES Document: 3897
+Documents table updated for CONPES Document: 3897
+Paragraphs processed for CONPES Document: 3892
+Classification processed for CONPES Document: 3892
+Keywords processed for CONPES Document: 3892
+Documents table updated for CONPES Document: 3892
+Paragraphs processed for CONPES Document: 3893
+Classification processed for CONPES Document: 3893
+Keywords processed for CONPES Document: 3893
+Documents table updated for CONPES Document: 3893
+Paragraphs processed for CONPES Document: 3894
+Classification processed for CONPES Document: 3894
+Keywords processed for CONPES Document: 3894
+Documents table updated for CONPES Document: 3894
+Paragraphs processed for CONPES Document: 3895
+Classification processed for CONPES Document: 3895
+Keywords processed for CONPES Document: 3895
+Documents table updated for CONPES Document: 3895
+Paragraphs processed for CONPES Document: 3890
+Classification processed for CONPES Document: 3890
+Keywords processed for CONPES Document: 3890
+Documents table updated for CONPES Document: 3890
+Paragraphs processed for CONPES Document: 3891
+Classification processed for CONPES Document: 3891
+Keywords processed for CONPES Document: 3891
+Documents table updated for CONPES Document: 3891
+Paragraphs processed for CONPES Document: 3889
+Classification processed for CONPES Document: 3889
+Keywords processed for CONPES Document: 3889
+Documents table updated for CONPES Document: 3889
+Paragraphs processed for CONPES Document: 3888
+Classification processed for CONPES Document: 3888
+Keywords processed for CONPES Document: 3888
+Documents table updated for CONPES Document: 3888
+Paragraphs processed for CONPES Document: 3887
+Classification processed for CONPES Document: 3887
+Keywords processed for CONPES Document: 3887
+Documents table updated for CONPES Document: 3887
+Paragraphs processed for CONPES Document: 3885
+Classification processed for CONPES Document: 3885
+Keywords processed for CONPES Document: 3885
+Documents table updated for CONPES Document: 3885
+Paragraphs processed for CONPES Document: 3886
+Classification processed for CONPES Document: 3886
+Keywords processed for CONPES Document: 3886
+Documents table updated for CONPES Document: 3886
+Paragraphs processed for CONPES Document: 3884
+Classification processed for CONPES Document: 3884
+Keywords processed for CONPES Document: 3884
+Documents table updated for CONPES Document: 3884
+Paragraphs processed for CONPES Document: 3883
+Classification processed for CONPES Document: 3883
+Keywords processed for CONPES Document: 3883
+Documents table updated for CONPES Document: 3883
+Paragraphs processed for CONPES Document: 3882
+Classification processed for CONPES Document: 3882
+Keywords processed for CONPES Document: 3882
+Documents table updated for CONPES Document: 3882
+Topics list processed for CONPES Document: 4087
+Topics list processed for CONPES Document: 4083
+Topics list processed for CONPES Document: 4084
+Topics list processed for CONPES Document: 4085
+Topics list processed for CONPES Document: 4079
+Topics list processed for CONPES Document: 4081
+Topics list processed for CONPES Document: 4082
+Topics list processed for CONPES Document: 4080
+Topics list processed for CONPES Document: Adenda 3918
+Topics list processed for CONPES Document: 4074
+Topics list processed for CONPES Document: 4075
+Topics list processed for CONPES Document: 4076
+Topics list processed for CONPES Document: 4073
+Topics list processed for CONPES Document: 4072
+Topics list processed for CONPES Document: 4071
+Topics list processed for CONPES Document: 4066
+Topics list processed for CONPES Document: 4067
+Topics list processed for CONPES Document: 4068
+Topics list processed for CONPES Document: 4069
+Topics list processed for CONPES Document: 4070
+Topics list processed for CONPES Document: 4064
+Topics list processed for CONPES Document: 4065
+Topics list processed for CONPES Document: 4059
+Topics list processed for CONPES Document: 4061
+Topics list processed for CONPES Document: 4060
+Topics list processed for CONPES Document: 4062
+Topics list processed for CONPES Document: 4063
+Topics list processed for CONPES Document: 4058
+Topics list processed for CONPES Document: 4057
+Topics list processed for CONPES Document: 4053
+Topics list processed for CONPES Document: 4054
+Topics list processed for CONPES Document: 4055
+Topics list processed for CONPES Document: 4056
+Topics list processed for CONPES Document: 4047
+Topics list processed for CONPES Document: 4046
+Topics list processed for CONPES Document: 4048
+Topics list processed for CONPES Document: 4049
+Topics list processed for CONPES Document: 4050
+Topics list processed for CONPES Document: 4051
+Topics list processed for CONPES Document: 4052
+Topics list processed for CONPES Document: 4044
+Topics list processed for CONPES Document: 4045
+Topics list processed for CONPES Document: 4041
+Topics list processed for CONPES Document: 4042
+Topics list processed for CONPES Document: 4040
+Topics list processed for CONPES Document: 4039
+Topics list processed for CONPES Document: 4037
+Topics list processed for CONPES Document: 4038
+Topics list processed for CONPES Document: 4035
+Topics list processed for CONPES Document: 4036
+Topics list processed for CONPES Document: 4034
+Topics list processed for CONPES Document: 4033
+Topics list processed for CONPES Document: 4032
+Topics list processed for CONPES Document: 4031
+Topics list processed for CONPES Document: 4030
+Topics list processed for CONPES Document: 4029
+Topics list processed for CONPES Document: 4028
+Topics list processed for CONPES Document: 4027
+Topics list processed for CONPES Document: 4024
+Topics list processed for CONPES Document: 4026
+Topics list processed for CONPES Document: 4025
+Topics list processed for CONPES Document: 4023
+Topics list processed for CONPES Document: 4020
+Topics list processed for CONPES Document: 4021
+Topics list processed for CONPES Document: 4019
+Topics list processed for CONPES Document: 4017
+Topics list processed for CONPES Document: 4018
+Topics list processed for CONPES Document: 4015
+Topics list processed for CONPES Document: 4016
+Topics list processed for CONPES Document: 4011
+Topics list processed for CONPES Document: 4012
+Topics list processed for CONPES Document: 4010
+Topics list processed for CONPES Document: 4013
+Topics list processed for CONPES Document: 4007
+Topics list processed for CONPES Document: 4008
+Topics list processed for CONPES Document: 4004
+Topics list processed for CONPES Document: 4005
+Topics list processed for CONPES Document: 4006
+Topics list processed for CONPES Document: 4002
+Topics list processed for CONPES Document: 4000
+Topics list processed for CONPES Document: 4001
+Topics list processed for CONPES Document: 3999
+Topics list processed for CONPES Document: 3994
+Topics list processed for CONPES Document: 3997
+Topics list processed for CONPES Document: 3998
+Topics list processed for CONPES Document: 3995
+Topics list processed for CONPES Document: 3996
+Topics list processed for CONPES Document: 3993
+Topics list processed for CONPES Document: 3991
+Topics list processed for CONPES Document: 3992
+Topics list processed for CONPES Document: 3988
+Topics list processed for CONPES Document: 3989
+Topics list processed for CONPES Document: 3990
+Topics list processed for CONPES Document: 3987
+Topics list processed for CONPES Document: 3985
+Topics list processed for CONPES Document: 3986
+Topics list processed for CONPES Document: 3984
+Topics list processed for CONPES Document: 3983
+Topics list processed for CONPES Document: 3982
+Topics list processed for CONPES Document: 3981
+Topics list processed for CONPES Document: 3980
+Topics list processed for CONPES Document: 3979
+Topics list processed for CONPES Document: 3978
+Topics list processed for CONPES Document: 3977
+Topics list processed for CONPES Document: 3976
+Topics list processed for CONPES Document: 3975
+Topics list processed for CONPES Document: 3973
+Topics list processed for CONPES Document: 3974
+Topics list processed for CONPES Document: 3971
+Topics list processed for CONPES Document: 3972
+Topics list processed for CONPES Document: 3969
+Topics list processed for CONPES Document: 3970
+Topics list processed for CONPES Document: 3968
+Topics list processed for CONPES Document: 3966
+Topics list processed for CONPES Document: 3964
+Topics list processed for CONPES Document: 3965
+Topics list processed for CONPES Document: 3963
+Topics list processed for CONPES Document: 3962
+Topics list processed for CONPES Document: 3961
+Topics list processed for CONPES Document: 3960
+Topics list processed for CONPES Document: 3959
+Topics list processed for CONPES Document: 3958
+Topics list processed for CONPES Document: 3957
+Topics list processed for CONPES Document: 3956
+Topics list processed for CONPES Document: 3955
+Topics list processed for CONPES Document: 3954
+Topics list processed for CONPES Document: 3953
+Topics list processed for CONPES Document: 3952
+Topics list processed for CONPES Document: 3951
+Topics list processed for CONPES Document: 3950
+Topics list processed for CONPES Document: 3948
+Topics list processed for CONPES Document: 3949
+Topics list processed for CONPES Document: 3947
+Topics list processed for CONPES Document: 3946
+Topics list processed for CONPES Document: 3945
+Topics list processed for CONPES Document: 3944
+Topics list processed for CONPES Document: 3943
+Topics list processed for CONPES Document: 3941
+Topics list processed for CONPES Document: 3942
+Topics list processed for CONPES Document: 3940
+Topics list processed for CONPES Document: 3937
+Topics list processed for CONPES Document: 3939
+Topics list processed for CONPES Document: 3938
+Topics list processed for CONPES Document: 3934
+Topics list processed for CONPES Document: 3933
+Topics list processed for CONPES Document: 3932
+Topics list processed for CONPES Document: 3931
+Topics list processed for CONPES Document: 3930
+Topics list processed for CONPES Document: 3929
+Topics list processed for CONPES Document: 3926
+Topics list processed for CONPES Document: 3927
+Topics list processed for CONPES Document: 3925
+Topics list processed for CONPES Document: 3924
+Topics list processed for CONPES Document: 3923
+Topics list processed for CONPES Document: 3922
+Topics list processed for CONPES Document: 3921
+Topics list processed for CONPES Document: 3920
+Topics list processed for CONPES Document: 3919
+Topics list processed for CONPES Document: 3918
+Topics list processed for CONPES Document: 3916
+Topics list processed for CONPES Document: 3917
+Topics list processed for CONPES Document: 3915
+Topics list processed for CONPES Document: 3914
+Topics list processed for CONPES Document: 3913
+Topics list processed for CONPES Document: 3912
+Topics list processed for CONPES Document: 3911
+Topics list processed for CONPES Document: 3910
+Topics list processed for CONPES Document: 3909
+Topics list processed for CONPES Document: 3908
+Topics list processed for CONPES Document: 3907
+Topics list processed for CONPES Document: 3906
+Topics list processed for CONPES Document: 3905
+Topics list processed for CONPES Document: 3903
+Topics list processed for CONPES Document: 3904
+Topics list processed for CONPES Document: 3902
+Topics list processed for CONPES Document: 3901
+Topics list processed for CONPES Document: 3900
+Topics list processed for CONPES Document: 3899
+Topics list processed for CONPES Document: 3898
+Topics list processed for CONPES Document: 3896
+Topics list processed for CONPES Document: 3897
+Topics list processed for CONPES Document: 3892
+Topics list processed for CONPES Document: 3893
+Topics list processed for CONPES Document: 3894
+Topics list processed for CONPES Document: 3895
+Topics list processed for CONPES Document: 3890
+Topics list processed for CONPES Document: 3891
+Topics list processed for CONPES Document: 3889
+Topics list processed for CONPES Document: 3888
+Topics list processed for CONPES Document: 3887
+Topics list processed for CONPES Document: 3885
+Topics list processed for CONPES Document: 3886
+Topics list processed for CONPES Document: 3884
+Topics list processed for CONPES Document: 3883
+Topics list processed for CONPES Document: 3882
+Process finished: 2022-06-28 04:11:25.109853
+Run time: 4028.816627264023 seconds.
